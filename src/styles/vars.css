@@ -1,0 +1,11 @@
+@custom-media --small (min-width: 568px);
+@custom-media --medium (min-width: 720px);
+@custom-media --large (min-width: 808px);
+
+/* for displaying the TOC sidebar */
+@custom-media --xlarge (min-width: 1450px);
+
+:root {
+  --font-headings: "Metropolis", sans-serif;
+  --font-body: "ProspectusS", serif;
+}

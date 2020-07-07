@@ -1,0 +1,83 @@
+@charset "utf-8";
+
+@import url("./reboot.css");
+@import url("./fontface.css");
+@import url("./vars.css");
+@import url("./app.css");
+
+body {
+  margin: 0;
+  font-size: 1rem;
+  background-color: #eee;
+  font-family: var(--font-body);
+  font-weight: 400;
+  line-height: 1.5;
+  color: #101316;
+  text-align: left;
+}
+
+a {
+  color: unset;
+}
+
+.head,
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-headings);
+  font-weight: normal;
+}
+
+blockquote {
+  margin: 0 0 1rem 1rem;
+  font-size: 1.3em;
+}
+
+.flex-wrap {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 0 2px;
+
+  @media (--small) {
+    padding: 0 10px;
+  }
+
+  @media (--large) {
+    width: 800px;
+  }
+}
+
+.page {
+  margin-bottom: 20px;
+  padding: 5px;
+  background: rgb(252, 252, 254);
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1);
+
+  > h2 {
+    margin-bottom: 1em;
+  }
+
+  @media (--small) {
+    padding: 50px;
+  }
+}
+
+/* below should only apply to endnotes page, but no time to
+ * make a new component right now so commenting it out
+ */
+/* .page-content ol > li {
+  margin-left: -0.5rem;
+}
+
+.page-content ol > li > * {
+  margin-left: 0.5rem;
+} */
+
+.page-content > *:last-child {
+  margin-bottom: 0;
+}
