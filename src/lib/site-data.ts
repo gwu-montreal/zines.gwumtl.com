@@ -13,6 +13,7 @@ interface SiteDataContext {
 }
 
 export const DEFAULT_LANG = "en";
+export { toc, langs };
 
 const SiteData = createContext<SiteDataContext>({ lang: DEFAULT_LANG });
 

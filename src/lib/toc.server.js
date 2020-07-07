@@ -6,8 +6,6 @@
  * val-loader we can calculate it once and import it wherever needed.
  */
 
-/* eslint-disable @typescript-eslint/unbound-method */
-
 // @ts-check
 const fs = require("fs");
 const { join } = require("path");
