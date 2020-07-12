@@ -1,7 +1,7 @@
 import React from "react";
 import { css } from "astroturf";
 
-import Link from "~/components/LocalizedLink";
+import PageLink from "~/components/PageLink";
 import { useSiteData } from "~/lib/site-data";
 
 const { wrapper, tocitem, activetocitem, unionfaqs, sidebar } = css`
@@ -103,10 +103,10 @@ const TableOfContents = ({ sidebar: isSidebar }: { sidebar?: boolean }) => {
             {title}
           </span>
         ) : (
-          <Link href={`/${route}`}>
+          <PageLink to={`/${route}`}>
             {maybeUnionfaqs}
             {title}
-          </Link>
+          </PageLink>
         )}
       </span>
     );

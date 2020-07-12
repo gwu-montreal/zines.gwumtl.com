@@ -1,7 +1,7 @@
 import React from "react";
 import { css } from "astroturf";
 
-import Link from "~/components/LocalizedLink";
+import PageLink from "~/components/PageLink";
 import { useSiteData } from "~/lib/site-data";
 
 const { wrapper, onlynext } = css`
@@ -32,14 +32,14 @@ const PrevNextLinks = () => {
   return (
     <div className={`${wrapper} ${!prevPage ? onlynext : ""}`}>
       {prevPage && (
-        <Link href={`/${prevPage.route}`}>
+        <PageLink to={`/${prevPage.route}`}>
           {"<"} {prevPage.title}
-        </Link>
+        </PageLink>
       )}
       {nextPage && (
-        <Link href={`/${nextPage.route}`}>
+        <PageLink to={`/${nextPage.route}`}>
           {nextPage.title} {">"}
-        </Link>
+        </PageLink>
       )}
     </div>
   );

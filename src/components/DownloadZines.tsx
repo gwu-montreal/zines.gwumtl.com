@@ -1,7 +1,7 @@
 import React from "react";
 import { css } from "astroturf";
 
-import Link from "~/components/LocalizedLink";
+import PageLink from "~/components/PageLink";
 import { useSiteData } from "~/lib/site-data";
 
 const { container, cover, gwuintlimage } = css`
@@ -49,13 +49,13 @@ const DownloadZines = () => {
           </a>
           <div>
             <div>
-              <Link href="/endnotes">{t("references_page")}</Link>
+              <PageLink to="/endnotes">{t("references_page")}</PageLink>
             </div>
             <div>
-              <Link href="/how-to-print">{t("printing_hints")}</Link>
+              <PageLink to="/how-to-print">{t("printing_hints")}</PageLink>
             </div>
             <div>
-              <Link href="/older-versions">{t("older_versions")}</Link>
+              <PageLink to="/older-versions">{t("older_versions")}</PageLink>
             </div>
           </div>
         </div>

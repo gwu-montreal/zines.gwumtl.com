@@ -1,19 +1,23 @@
 import { createContext, useContext } from "react";
 import { useRouter } from "next/router";
 
-import en from "content/en.json";
-import fr from "content/fr.json";
 import langs from "content/languages.json";
 
+// TODO: could use require.context if we really want to hardcode fewer
+// assumptions about languages available
+import en from "content/en.json";
+import fr from "content/fr.json";
+
 import toc from "~/lib/toc.server";
+
+export const DEFAULT_LANG = "en";
+
+export { toc, langs };
 
 interface SiteDataContext {
   lang: string;
   currentPage?: string;
 }
-
-export const DEFAULT_LANG = "en";
-export { toc, langs };
 
 const SiteData = createContext<SiteDataContext>({ lang: DEFAULT_LANG });
 
@@ -33,7 +37,11 @@ export function useSiteData() {
     langs,
     toc: toc[lang],
     currentPage,
-    t: (id: string) => localeData[lang][id] || localeData["en"][id] || id,
+    t: (id: string) => {
+      if (localeData[lang][id]) return localeData[lang][id];
+      console.warn(`Locale string not found for id "${id}" in lang "${lang}"`);
+      return localeData[DEFAULT_LANG][id] || id;
+    },
     setLang: (nextLang: string) => {
       if (!router.query.lang) {
         console.warn("Trying to set language, but not on a localized route!");

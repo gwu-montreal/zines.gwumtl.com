@@ -7,6 +7,8 @@ import { SiteDataProvider, DEFAULT_LANG } from "~/lib/site-data";
 
 import "~/styles/index.css";
 
+import "@sux/chapter-map-component/tooltip-styles.css";
+
 class MyApp extends App {
   render() {
     const { Component, pageProps } = this.props;

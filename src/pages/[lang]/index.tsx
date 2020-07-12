@@ -2,7 +2,7 @@ import React from "react";
 import { css } from "astroturf";
 import Head from "next/head";
 
-import Link from "~/components/LocalizedLink";
+import PageLink from "~/components/PageLink";
 import TableOfContents from "~/components/TableOfContents";
 import DownloadZines from "~/components/DownloadZines";
 import { useSiteData } from "~/lib/site-data";
@@ -49,9 +49,9 @@ const OpeningStatement = ({ content }: PageProps) => {
           src="/images/isabelle-clearbg-inlined.svg"
         />
         <div dangerouslySetInnerHTML={{ __html: content }} />
-        <Link href="/intro">
+        <PageLink to="/intro">
           <h1 className={readzine}>{t("read_the_zine")}</h1>
-        </Link>
+        </PageLink>
         <TableOfContents />
         <DownloadZines />
       </div>

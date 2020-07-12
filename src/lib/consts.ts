@@ -4,4 +4,4 @@ export { languageMap };
 
 export const languageList = Object.keys(languageMap);
 
-export type ArticleTypes = "unionfaqs" | "bare" | "map";
+export type ArticleTypes = "unionfaqs" | "map" | "bare" | undefined;

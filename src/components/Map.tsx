@@ -1,27 +1,19 @@
 import React, { useState, useCallback } from "react";
 import { css } from "astroturf";
 
-import ChapterMap from "@gameworkers/chapter-map-component";
+import ChapterMap from "@sux/chapter-map-component";
 
-import Layout from "~/components/Layout";
-
-// Attach map data to window
-(window as any).WORLD_110M_JSON_PATH = "/world-110m.json";
-(window as any).WORLD_50M_JSON_PATH = "/world-50m.json";
+import { useSiteData } from "~/lib/site-data";
 
 const {
-  container,
   inner,
   buttonscontainer,
   buttons,
+  button,
   map,
   localtext,
   tooltip,
 } = css`
-  .container {
-    width: 100%;
-  }
-
   .inner {
     display: flex;
     flex-direction: column;
@@ -42,6 +34,10 @@ const {
     flex-direction: column;
   }
 
+  .button {
+    border-radius: 6px;
+  }
+
   .map {
     width: 100% !important;
     height: 0 !important;
@@ -56,61 +52,71 @@ const {
   }
 
   .tooltip {
-    max-width: 220px;
+    max-width: 420px;
   }
 `;
 
-// const Map = () => {
-//   const [zoom, setZoom] = useState(0.9);
+const Map = () => {
+  const { t } = useSiteData();
+  const [
+    {
+      coordinates: [x, y],
+      zoom,
+    },
+    setPos,
+  ] = useState({ coordinates: [13, 18], zoom: 0.9 });
 
-//   const handleZoomIn = useCallback(() => {
-//     setZoom((z) => Math.min(z + 0.5, 20));
-//   }, [setZoom]);
+  const handleZoomIn = useCallback(() => {
+    setPos((pos) => ({ ...pos, zoom: Math.min(pos.zoom + 0.5, 20) }));
+  }, []);
 
-//   const handleZoomOut = useCallback(() => {
-//     setZoom((z) => Math.max(z - 0.5, 1));
-//   }, [setZoom]);
+  const handleZoomOut = useCallback(() => {
+    setPos((pos) => ({ ...pos, zoom: Math.max(pos.zoom - 0.5, 1) }));
+  }, []);
 
-//   return (
-//     <Layout containerClassName={container}>
-//       <div className={inner}>
-//         <div className={buttonscontainer}>
-//           <div className={buttons}>
-//             <button
-//               disabled={zoom >= 20}
-//               style={{
-//                 marginBottom: 10,
-//                 opacity: zoom >= 20 ? 0.3 : 1,
-//               }}
-//               onClick={handleZoomIn}
-//             >
-//               ➕
-//             </button>
-//             <button
-//               disabled={zoom <= 1}
-//               style={{ opacity: zoom <= 1 ? 0.3 : 1 }}
-//               onClick={handleZoomOut}
-//             >
-//               ➖
-//             </button>
-//           </div>
-//         </div>
-//         <ChapterMap
-//           className={map}
-//           centerLat={18}
-//           centerLng={13}
-//           height={450}
-//           markerScale={0.1}
-//           scale={205}
-//           width={780}
-//           enablePanning
-//           zoom={zoom}
-//           tooltipClassName={tooltip}
-//         />
-//         <p className={localtext}>{t("find_local_chapter")}</p>
-//       </div>
-//     </Layout>
-//   );
-// };
+  return (
+    <div className={inner}>
+      <div className={buttonscontainer}>
+        <div className={buttons}>
+          <button
+            onClick={handleZoomIn}
+            disabled={zoom >= 20}
+            style={{
+              marginBottom: 10,
+              opacity: zoom >= 20 ? 0.3 : 1,
+            }}
+            className={button}
+          >
+            ➕
+          </button>
+          <button
+            onClick={handleZoomOut}
+            disabled={zoom <= 1}
+            style={{
+              opacity: zoom <= 1 ? 0.3 : 1,
+            }}
+            className={button}
+          >
+            ➖
+          </button>
+        </div>
+      </div>
+      <ChapterMap
+        x={x}
+        y={y}
+        zoom={zoom}
+        onPanZoom={setPos}
+        panZoomControls
+        width={780}
+        height={450}
+        markerScale={0.1}
+        className={map}
+        scale={205}
+        tooltipClassName={tooltip}
+      />
+      <p className={localtext}>{t("find_local_chapter")}</p>
+    </div>
+  );
+};
 
-// export default Map;
+export default Map;

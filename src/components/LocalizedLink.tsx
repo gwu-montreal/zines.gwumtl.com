@@ -3,11 +3,13 @@ import Link from "next/link";
 
 import { useSiteData } from "~/lib/site-data";
 
-const LocalizedLink = ({
+export const LocalizedLink = ({
   href,
+  as: baseAs,
   children,
 }: {
   href: string;
+  as?: string;
   children: React.ReactNode;
 }) => {
   const { lang } = useSiteData();
@@ -18,12 +20,13 @@ const LocalizedLink = ({
     console.warn(`only absolute uris are currently supported.`);
   }
 
-  const resolvedHref = href === "/" ? "/[lang]" : "/[lang]/[page]";
+  const as = baseAs ?? href;
 
   // HACK: normally "/fr/" with a trailing slash should be the same as "/fr",
   // but next currently gets a bit confused in dev mode about this. (the final
   // static export works fine with either!)
-  const resolvedAs = href === "/" ? `/${lang}` : `/${lang}${href}`;
+  const resolvedHref = href === "/" ? "/[lang]" : `/[lang]${href}`;
+  const resolvedAs = href === "/" ? `/${lang}` : `/${lang}${as}`;
 
   return (
     <Link href={resolvedHref} as={resolvedAs}>

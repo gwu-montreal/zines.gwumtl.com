@@ -17,8 +17,11 @@ interface BaseLayoutProps {
 type LayoutProps = BaseLayoutProps &
   ({ children: React.ReactNode } | { contents: string });
 
-/* unionfaqs styles */
-const { faqcontainer, faqbody, faqheader } = css`
+const { mapcontainer, faqcontainer, faqbody, faqheader } = css`
+  .mapcontainer {
+    width: 100%;
+  }
+
   .faqcontainer {
     border-radius: 5px;
     background-color: rgb(246, 246, 255);
@@ -46,10 +49,14 @@ const Layout = ({
 
   const isFaq = type === "unionfaqs";
 
+  const resolvedContainerClass = `${containerClassName} ${
+    isFaq ? faqcontainer : type === "map" ? mapcontainer : ""
+  }`;
+
   return (
     <>
       <Head>
-        <title>{`${t("site_title")} - ${pageTitle}`}</title>
+        <title>{`${t("site_title")} — ${pageTitle}`}</title>
         <meta
           property="og:title"
           content={(isFaq ? `${t("unionfaqs_prefix")} ` : "") + pageTitle}
@@ -59,7 +66,7 @@ const Layout = ({
         <div style={{ width: "100%", position: "relative" }}>
           <TableOfContents sidebar />
         </div>
-        <div className={`page ${isFaq ? faqcontainer : containerClassName}`}>
+        <div className={`page ${resolvedContainerClass}`}>
           {isFaq ? (
             <>
               <h1 className={faqheader}>{t("unionfaqs_title")}</h1>

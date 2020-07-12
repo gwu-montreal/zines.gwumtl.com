@@ -1,11 +1,14 @@
 import React from "react";
+import dynamic from "next/dynamic";
 
 import Layout from "~/components/Layout";
 
 import type { GetStaticProps, GetStaticPaths } from "next";
 import type { ArticleTypes } from "~/lib/consts";
 
-// even though we don't all use these static props in the component, our app
+const Map = dynamic(() => import("~/components/Map"));
+
+// even though we don't use all these static props in the component, our app
 // wrapper (_app.tsx) also receives them and consumes them.
 type PageProps = {
   lang: string;
@@ -16,6 +19,14 @@ type PageProps = {
 };
 
 const Page = ({ title, type, content }: PageProps) => {
+  if (type === "map") {
+    return (
+      <Layout pageTitle={title} type={type}>
+        <Map />
+      </Layout>
+    );
+  }
+
   return <Layout pageTitle={title} type={type} contents={content} />;
 };
 

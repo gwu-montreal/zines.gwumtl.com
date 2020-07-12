@@ -62,7 +62,7 @@ const Header = () => {
       <div className="container">
         <nav className={`${head} head`}>
           <div>
-            <Link href={"/"}>
+            <Link href="/">
               <img
                 alt="Game Workers Unite"
                 className={logoimage}
