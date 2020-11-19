@@ -6,6 +6,7 @@ import { useSiteData } from "~/lib/site-data";
 import Clearfix from "~/components/Clearfix";
 import Footer from "~/components/Footer";
 import TableOfContents from "~/components/TableOfContents";
+import SEO from "./SEO";
 
 interface BaseLayoutProps {
   pageTitle: string;
@@ -15,7 +16,7 @@ interface BaseLayoutProps {
 }
 
 type LayoutProps = BaseLayoutProps &
-  ({ children: React.ReactNode } | { contents: string });
+  ({ children: React.ReactNode } | { contents: string; summary: string });
 
 const { mapcontainer, faqcontainer, faqbody, faqheader } = css`
   .mapcontainer {
@@ -53,15 +54,23 @@ const Layout = ({
     isFaq ? faqcontainer : type === "map" ? mapcontainer : ""
   }`;
 
+  // prettier-ignore
+  const title =
+    `${t("site_title")} — ${isFaq ? t("unionfaqs") + ": " : ""}${pageTitle}`;
+
   return (
     <>
       <Head>
-        <title>{`${t("site_title")} — ${pageTitle}`}</title>
-        <meta
-          property="og:title"
-          content={(isFaq ? `${t("unionfaqs_prefix")} ` : "") + pageTitle}
-        />
+        <title>{title}</title>
       </Head>
+      <SEO
+        title={title}
+        description={
+          "contents" in contentsOrChildren
+            ? contentsOrChildren.summary
+            : undefined
+        }
+      />
       <div style={{ width: "100%" }}>
         <div style={{ width: "100%", position: "relative" }}>
           <TableOfContents sidebar />
@@ -69,7 +78,7 @@ const Layout = ({
         <div className={`page ${resolvedContainerClass}`}>
           {isFaq ? (
             <>
-              <h1 className={faqheader}>{t("unionfaqs_title")}</h1>
+              <h1 className={faqheader}>{t("unionfaqs")}</h1>
               <h2>{pageTitle}</h2>
             </>
           ) : (

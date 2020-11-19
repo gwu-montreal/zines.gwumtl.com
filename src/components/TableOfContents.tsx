@@ -92,7 +92,7 @@ const TableOfContents = ({ sidebar: isSidebar }: { sidebar?: boolean }) => {
   const tocItems = toc.map(({ route, title, type }) => {
     const maybeUnionfaqs =
       type === "unionfaqs" ? (
-        <span className={unionfaqs}>{t("unionfaqs_prefix")} </span>
+        <span className={unionfaqs}>{t("unionfaqs")}: </span>
       ) : null;
 
     return (

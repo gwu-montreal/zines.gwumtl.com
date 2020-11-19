@@ -5,6 +5,7 @@ import Head from "next/head";
 import PageLink from "~/components/PageLink";
 import TableOfContents from "~/components/TableOfContents";
 import DownloadZines from "~/components/DownloadZines";
+import SEO from "~/components/SEO";
 import { useSiteData } from "~/lib/site-data";
 
 import type { GetStaticProps, GetStaticPaths } from "next";
@@ -37,11 +38,14 @@ const { container, image, readzine } = css`
 const OpeningStatement = ({ content }: PageProps) => {
   const { t } = useSiteData();
 
+  const title = t("site_title");
+
   return (
     <>
       <Head>
-        <title>{t("site_title")}</title>
+        <title>{title}</title>
       </Head>
+      <SEO title={title} />
       <div className={container}>
         <img
           alt="Isabelle: Unionize!"

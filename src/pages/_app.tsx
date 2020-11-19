@@ -7,7 +7,9 @@ import { SiteDataProvider, DEFAULT_LANG } from "~/lib/site-data";
 
 import "~/styles/index.css";
 
-import "@sux/chapter-map-component/tooltip-styles.css";
+// for map
+// (disabled since we've also disabled the map for now.)
+// import "react-popper-tooltip/dist/styles.css";
 
 class MyApp extends App {
   render() {
@@ -17,33 +19,28 @@ class MyApp extends App {
     const main = (
       <>
         <Head>
-          {/* <link
-        rel="apple-touch-icon"
-        sizes="180x180"
-        href="/apple-touch-icon.png"
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="32x32"
-        href="/favicon-32x32.png"
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="16x16"
-        href="/favicon-16x16.png"
-      /> */}
-          {/* <link rel="manifest" href="/site.webmanifest" /> */}
-          {/* <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" /> */}
-          {/* <meta name="msapplication-TileColor" content="#da532c" /> */}
-          {/* <meta name="theme-color" content="#ffffff" /> */}
-          <meta
-            property="og:image"
-            content="https://zines.gwumtl.com/images/waluigi_social_crop.jpg"
+          <link
+            rel="apple-touch-icon"
+            sizes="180x180"
+            href="/apple-touch-icon.png"
           />
-          {/* <meta name="twitter:card" content="summary_large_image" />
-      <script async src="/fathom.js" /> */}
+          <link
+            rel="icon"
+            type="image/png"
+            sizes="32x32"
+            href="/favicon-32x32.png"
+          />
+          <link
+            rel="icon"
+            type="image/png"
+            sizes="16x16"
+            href="/favicon-16x16.png"
+          />
+          <link rel="manifest" href="/site.webmanifest" />
+          <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
+          <meta name="msapplication-TileColor" content="#da532c" />
+          <meta name="theme-color" content="#ffffff" />
+          {/* <script async src="/fathom.js" /> */}
         </Head>
         <SiteDataProvider value={{ lang: lang || DEFAULT_LANG, currentPage }}>
           <Header />
