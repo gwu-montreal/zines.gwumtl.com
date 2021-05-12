@@ -19,8 +19,6 @@ Les patrons encouragent souvent leurs employé·e·s à venir leur parler direct
 
 En vérité, c’est **la principale méthode que le management utilise pour maintenir son contrôle sur le flux d’information au bureau**, et pour tuer dans l’oeuf le moindre mouvement syndical. Ils se diront être en mesure d’aider, qu’ils sont sincèrement concernés par votre bien-être. C’est un piège, **un moyen de s’assurer que les employé·e·s n’interagissent avec le management qu’en tant qu’individus isolés et impuissants**, au lieu de se tourner vers leurs collègues pour obtenir soutien et solidarité. Les patrons offriront de vagues promesses, des excuses, répétant que vos soucis seront pris au sérieux et adressés, tout en vous conseillant de rester discret et de ne discuter de ces problèmes que directement avec eux. S’ils vous surprennent à partager vos craintes avec vos collègues, cette attitude de support ne tardera sûrement pas à disparaître, ce qui souligne **l’importance de commencer toute forme d’organisation loin des yeux et oreilles des managers**.
 
-En vérité, c’est **la principale méthode que le management utilise pour maintenir son contrôle sur le flux de l'information au bureau**, et pour tuer dans l’oeuf la moindre tentative d’organisation. Ils diront être en mesure d’aider, et qu’ils sont sincèrement concernés par votre bien-être. Le piège est qu’il s’agit **d’un moyen de s'assurer que les employé·e·s n’interagissent avec le management qu’en tant qu'individus  isolés et impuissants**, au lieu de se tourner vers leurs collègues pour obtenir soutien et solidarité. Les patrons présenteront des promesses vagues et des excuses, répétant que vous et vos soucis seront pris au sérieux et adressés, tout en vous conseillant de rester discret et de ne discuter de ces problèmes que directement avec eux. S’ils vous surprennent à partager vos craintes avec vos collègues, cette attitude de support ne tardera sûrement pas à disparaître, ce qui souligne **l’importance de commencer toute forme d’organisation loin des yeux et oreilles des managers**.
-
 <div class="md-img">
 <img
   src="/images/PO_Door.png"
@@ -75,7 +73,7 @@ Souvenez-vous, le problème central est le déséquilibre de pouvoir entre eux e
 
 #### Le “syndicat d’entreprise”
 
-Certains patrons se déclarent en faveur des syndicats, et vous offriront même d’aider à en mettre un en place. Vous pourriez penser être chanceux de travailler au compte d’un employeur aussi progressiste. Ils pourraient même faire venir des gens qui s’en occuperaient pour vous et se chargeraient de tous les détails compliqués… Jusqu’à ce que vous réalisiez que votre nouveau “syndicat” a été mis en place sans aucune forme d’organisation entre les travailleu.se.rs, qu’il inclut le management de la compagnie dans sa chaine de décision, qu’il reproduit les mêmes dynamiques de pouvoir déjà présentes sur le lieu de travail, et qu’il a été construit avec la même structure descendante qui garantit sa loyauté aux patrons plutôt qu’aux employé·e·s. Cette sorte de coopération est un vrai danger qui peut complètement neutraliser l’énergie “pro-syndicat” qui habitait les employé·e·s, et retarder dramatiquement tout effort sincère de syndicalisation - **ne laissez pas passer ça** ! 
+Certains patrons se déclarent en faveur des syndicats, et vous offriront même d’aider à en mettre un en place. Vous pourriez penser être chanceux de travailler au compte d’un employeur aussi progressiste. Ils pourraient même faire venir des gens qui s’en occuperaient pour vous et se chargeraient de tous les détails compliqués… Jusqu’à ce que vous réalisiez que votre nouveau “syndicat” a été mis en place sans aucune forme d’organisation entre les travailleu.se.rs, qu’il inclut le management de la compagnie dans sa chaine de décision, qu’il reproduit les mêmes dynamiques de pouvoir déjà présentes sur le lieu de travail, et qu’il a été construit avec la même structure descendante qui garantit sa loyauté aux patrons plutôt qu’aux employé·e·s. Cette sorte de coopération est un vrai danger qui peut complètement neutraliser l’énergie “pro-syndicat” qui habitait les employé·e·s, et retarder dramatiquement tout effort sincère de syndicalisation - **ne laissez pas passer ça** !
 
 Un rôle similaire est joué par des organisations d’industrie qui annoncent publiquement qu’elles représentent les intérêts des développeu·se·rs de jeux, mais qui **en pratique sont dirigées et fondées exclusivement par des patrons et managers d’entreprise**, et ont systématiquement choisi de s’associer à leurs intérêts plutôt qu’à ceux des employé·e·s en cas de conflit. L’IGDA est l’une de ces organisations. Un rôle semblable est occupé au Québec par “La Guilde”, et en France par le “Syndicat National du Jeu Vidéo” (SNJV, à ne pas confondre avec le STJV, Syndicat des Travailleurs et Travailleuses du Jeu Vidéo, qui est le véritable syndicat français des travailleu.ses.rs du jeu vidéo)
 
@@ -84,14 +82,14 @@ Un rôle similaire est joué par des organisations d’industrie qui annoncent p
 #### Briseurs de grèves
 
 L’un des stratagèmes les plus vicieux qu’un patron puisse employer, **les “briseurs de grèves” sont des gens qui, en tant que travailleu.se.rs eux-mêmes et donc potentiels futurs membres d’un syndicat, reçoivent un traitement de faveur en récompense pour tourner le dos à leurs collègues**. Les briseurs de grèves sont souvent déployés temporairement depuis l’extérieur, de façon à remplacer en urgence les employé·e·s qui essaient de se syndiquer. Les patrons iront parfois même jusqu’à offrir aux briseurs de grèves toutes les demandes que les travailleu.se.rs qui se syndiquent avaient initialement réclamées, tout en continuant de les refuser aux autres - juste afin de vous démoraliser, en démontrant que bien que ces demandes puissent facilement être mises en place, il s’agit surtout de vous punir “pour le principe” d’avoir défendu vos droits.
- 
+
 <div class="md-img right off-1">
 <img
   src="/images/PO_Rat.png"
   alt="Un rat briseur de grève."
 />
 </div>
- 
+
 Pendant la grève des doubleu·ses·rs de la SAG-AFTRA en 2017, l’emploi de voice doubleurs briseurs de grèves fut notamment utilisé -[et grandement critiqué](https://waypoint.vice.com/en_us/article/yw55zx/crappy-voice-acting-undercuts-an-otherwise-strong-life-is-strange-prequel)- dans *Before the Storm*, la préquelle de *Life is Strange*.
 
 Afin de travailler vers l’objectif à long-terme d’une industrie du jeu vidéo syndicalisée, il est important de créer une culture où accepter un contrat de briseur·se de grève est véritablement traité comme l’acte méprisable dont il s’agit - un acte qui finit par causer du tort aux briseur·se·s de grève eux-mêmes sur le long terme.
