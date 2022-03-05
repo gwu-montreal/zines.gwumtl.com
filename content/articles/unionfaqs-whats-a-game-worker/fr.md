@@ -18,8 +18,7 @@ Les community managers? Tout à fait.
 
 Mais le terme “Travailleur.se” désigne également les professionnels que l’on n’aurait pas nécessairement associés avec la production. Les ouvriers et ouvrières qui travaillent à la manufacture des consoles de jeu sur lesquels nos jeux tournent. Les mineurs qui excavent le [coltan](https://videogamesoftheoppressed.wordpress.com/2014/08/22/conflict-minerals-and-games/) utilisé dans ces consoles. On y inclut même les personnes en charge de la cantine dans les studios de développement. Car même si cela paraît moins évident au premier abord, ces travailleurs et travailleuses se révèlent essentiels à la production et à la commercialisation d’un jeu. Ce sont donc également des Travailleurs.ses du jeu vidéo à part entière.
 
-**\
-Le travail du jeu est un labeur comme un autre**
+**Le travail du jeu est un labeur comme un autre**
 
 Le milieu du développement de jeux est hanté par un mot : la “passion”. \
 La “passion”, c’est le mot derrière lequel se dissimulent tous les abus qui gangrènent notre industrie : harcèlement moral ou sexuel, épuisement professionnel, heures sup’ non payées, crunch, de même que le vedettariat des créateurs et studios “stars” qui vient sans cesse justifier leur sentiment d’impunité. \
@@ -27,8 +26,7 @@ La “passion” vient effacer de façon systématique les expériences douloure
 
 Dans ce contexte, il est nécessaire de reprendre possession du terme “Travailleur.se”, de sa consonance et de son héritage politique fort. Vous définir comme Travailleur ou Travailleuse du jeu vidéo rappelle à tout le monde - à vous-même, à vos collègues, à votre manager, à votre PDG- que le travail que vous fournissez n’est pas un loisir ou un passe-temps: il s’agit de votre gagne-pain. Ce travail paie votre loyer, vos factures et vous procure une assurance santé privée. Personne ne vous a fait une fleur pour vous avoir recruté et permis de vivre de votre “passion” : vous gagnez votre place chaque jour, en procurant à votre employeur un travail hautement qualifié en échange d’une rémunération et d’avantages professionnels.
 
-**\
-La question des crédits de jeux**
+**La question des crédits de jeux**
 
 La question des crédits fait régulièrement polémique dans le monde des créateurs de jeux, et elle est extrêmement caractéristique de la nécessité, pour les travailleurs.ses de  l’industrie, de politiser et faire valoir la nature de leur travail.
 
