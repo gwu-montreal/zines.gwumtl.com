@@ -13,9 +13,9 @@ and together we have the power to improve it.**
 <h1>Remember: you’re not in this fight alone! Together, we can win better working conditions for <strong>everyone</strong>.</h1>
 </div>
 
-<h3>Follow GWU Montréal online:</h3>
+<h3 style="text-align: center;">Follow GWU Montréal online:</h3>
 
-<div style="display:flex;justify-content: flex-start;margin-top:20px;margin-bottom:40px">
+<div style="display:flex;flex-wrap: wrap;justify-content: center;margin-top:20px;margin-bottom:40px">
   <a title="GWU Montréal on Twitter" href="https://twitter.com/gwu_montreal">
     <img
       style="width: 150px;height: 150px;margin-right: 1rem"

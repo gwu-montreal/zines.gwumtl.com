@@ -9,9 +9,9 @@ Nous ne défendrons pas une industrie charactérisée par des discriminations su
 <h1>Souvenez-vous : vous n’êtes pas seul·e dans ce combat ! Ensemble, nous pouvons gagner de meilleures conditions de travail pour <strong>tout le monde</strong>.</h1>
 </div>
 
-<h3>Suivez GWU Montréal en ligne:</h3>
+<h3 style="text-align: center;">Suivez GWU Montréal en ligne:</h3>
 
-<div style="display:flex;justify-content: flex-start;margin-top:20px;margin-bottom:40px">
+<div style="display:flex;flex-wrap: wrap;justify-content: center;margin-top:20px;margin-bottom:40px">
   <a title="GWU Montréal sur Twitter" href="https://twitter.com/gwu_montreal">
     <img
       style="width: 150px;height: 150px;margin-right: 1rem"
