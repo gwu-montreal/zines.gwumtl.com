@@ -4,7 +4,7 @@ import { css } from "astroturf";
 import PageLink from "~/components/PageLink";
 import { useSiteData } from "~/lib/site-data";
 
-const { container, cover, gwuintlimage } = css`
+const { container, cover, gwumtllogo } = css`
   .container {
     display: flex;
     justify-content: space-around;
@@ -22,7 +22,7 @@ const { container, cover, gwuintlimage } = css`
     margin: 0 1rem 0 0.5rem;
   }
 
-  .gwuintlimage {
+  .gwumtllogo {
     max-height: 5rem;
     margin: 0.5em auto 1em;
     display: block;
@@ -61,12 +61,12 @@ const DownloadZines = () => {
         </div>
       </div>
       <p className="tc">
-        <a href="https://gameworkersunite.org">
-          <span>{t("gwu_international")}</span>
+        <a href="https://gwumtl.com">
+          <span>GWU Montréal</span>
           <img
-            title={t("gwu_international")}
-            className={gwuintlimage}
-            src="/images/gwu-logo.svg"
+            title="GWU Montréal"
+            className={gwumtllogo}
+            src="/images/gwu-montreal-logo.svg"
           />
         </a>
       </p>
