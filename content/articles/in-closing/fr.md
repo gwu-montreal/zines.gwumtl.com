@@ -12,21 +12,21 @@ Nous ne défendrons pas une industrie charactérisée par des discriminations su
 <h3>Suivez GWU en ligne:</h3>
 
 <div style="display:flex;justify-content: flex-start;margin-top:20px;margin-bottom:40px">
-  <a title="GWU sur Twitter" href="https://twitter.com/gameworkers">
+  <a title="GWU Montréal sur Twitter" href="https://twitter.com/gwu_montreal">
     <img
       style="width: 55px;height: 55px;margin-right: 1rem"
       src="/images/social-twitter.svg"
       alt="Twitter logo"
     />
   </a>
-  <a title="GWU Website" href="https://gameworkersunite.org">
+  <a title="GWU Montréal Website" href="https://gwumtl.com">
     <img
       style="width: 55px;height: 55px;margin-right: 1rem"
-      src="/images/gwu-logo.svg"
-      alt="GWU logo"
+      src="/images/gwu-montreal-logo.svg"
+      alt="GWU Montréal logo"
     />
   </a>
-  <a title="GWU sur Facebook" href="https://www.facebook.com/GameWorkers/">
+  <a title="GWU Montréal sur Facebook" href="https://www.facebook.com/gwumtl/">
     <img
       style="width: 55px;height: 55px"
       src="/images/social-facebook.svg"

@@ -16,21 +16,21 @@ and together we have the power to improve it.**
 <h3>Follow GWU online:</h3>
 
 <div style="display:flex;justify-content: flex-start;margin-top:20px;margin-bottom:40px">
-  <a title="GWU on Twitter" href="https://twitter.com/gameworkers">
+  <a title="GWU Montréal on Twitter" href="https://twitter.com/gwu_montreal">
     <img
       style="width: 55px;height: 55px;margin-right: 1rem"
       src="/images/social-twitter.svg"
       alt="Twitter logo"
     />
   </a>
-  <a title="GWU Website" href="https://gameworkersunite.org">
+  <a title="GWU Montréal" href="https://gwumtl.com">
     <img
       style="width: 55px;height: 55px;margin-right: 1rem"
-      src="/images/gwu-logo.svg"
-      alt="GWU logo"
+      src="/images/gwu-montreal-logo.svg"
+      alt="GWU Montréal logo"
     />
   </a>
-  <a title="GWU on Facebook" href="https://www.facebook.com/GameWorkers/">
+  <a title="GWU Montréal on Facebook" href="https://www.facebook.com/gwumtl/">
     <img
       style="width: 55px;height: 55px"
       src="/images/social-facebook.svg"
