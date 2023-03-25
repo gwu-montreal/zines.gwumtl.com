@@ -2,7 +2,7 @@
 title: Un mot de la rédaction
 ---
 <div class="note-box">
-  Cette introduction a été rédigée au début de l'année 2020. Beaucoup de choses ont changé dans l'industrie du jeu depuis ce temps-là ! Nous avons laissé ce message tel quel en tant que portrait de l'énergie et de l'activité qui régnaient au moment de la rédaction.
+  Cette introduction a été rédigée <strong>au début de l'année 2020</strong>. Beaucoup de choses ont changé dans l'industrie du jeu depuis ce temps-là ! Nous avons laissé ce message tel quel en tant que portrait de l'énergie et de l'activité qui régnaient au moment de la rédaction.
 </div>
 
 Bienvenue dans cette édition survoltée du magazine **Game Workers Unite**. Avant de s’attaquer au gros du sujet, prenons un moment pour jeter un oeil aux dénouements de l’année passée, bons et mauvais.
