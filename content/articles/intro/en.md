@@ -2,6 +2,10 @@
 title: From the Desk of the Editors
 summary: A discussion of the latest goings-on in games and labour.
 ---
+<div class="note-box">
+  Note that this introduction was written in <strong>early 2020</strong>. A lot has changed in the game industry since then! We've kept this message as-is as a portrait of the energy and activity that was going on at the time of writing.
+</div>
+
 ### ***Dear Reader…***
 
 Welcome back to yet another rousing issue of the **Game Workers Unite magazine**. Before we jump into the thick of things, we thought we'd take a moment to look back on the events of the past year, both good and ill.
