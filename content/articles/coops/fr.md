@@ -1,5 +1,5 @@
 ---
-title: "Les coopératives de salarié·e·s: Une nouvelle façon de créer des jeux commerciaux"
+title: "Les coopératives de travail: Une nouvelle façon de créer des jeux commerciaux"
 ---
 ### Aucun patron requis !
 
