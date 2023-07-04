@@ -18,7 +18,7 @@ If you're in the industry but currently unemployed, you're also a game worker. T
 
 **Game work is work**
 
-Game dev is haunted by the term “passion”.  But “passion” is the reason behind most of the abuse that plagues our industry: harassment, burn out, unpaid overtime, crunch, and the star system’s impunity provided to “elite” creators and studios. “Passion” systematically silences whatever you’re going through on behalf of a vague, intangible self-sacrificing ideal. “Passion” is an industry-wide gaslighting practice.
+Game dev is haunted by the term “passion”. But “passion” is the reason behind most of the abuse that plagues our industry: harassment, burn out, unpaid overtime, crunch, and the star system’s impunity provided to “elite” creators and studios. “Passion” systematically silences whatever you’re going through on behalf of a vague, intangible self-sacrificing ideal. “Passion” is an industry-wide gaslighting practice.
 
 In this context, “worker” is a word to be reclaimed, along with its important political undertones. Defining yourself as a game worker is a friendly reminder — to you, your colleagues, manager, and CEO — that your job is not a fancy, it is how you make a living. Work is how you pay your rent, bills and get health insurance. No one is doing you a favor by having you on their payroll and allowing you to live your “passion”: you earn your place daily by providing specialized work in exchange for money and benefits.
 
