@@ -8,11 +8,9 @@ We tend to prefer using the term “worker” rather than “employee” or “g
 
 **Games aren’t made in a vacuum.**
 
-When we talk about game workers, we're referring to **anyone involved with the production of a game**.\
-Programmers, artists, designers, musicians? Yep.\
-Voice and mocap actors, audio engineers? Definitely.\
-Community managers? Of course.\
-But we're also talking about workers whom players may not instantly associate with production. What about factory workers who manufacture the consoles that games are played on? And workers mining the [coltan ](https://videogamesoftheoppressed.wordpress.com/2014/08/22/conflict-minerals-and-games/)used in those consoles? How about the people working to prepare food at the cafeteria on the company campus? Even if it may be less obvious, these workers are all essential to the production of games. They're game workers too.
+When we talk about game workers, we're referring to **anyone involved with the production of a game**. Programmers, artists, designers, musicians? Yep. Voice and mocap actors, audio engineers? Definitely. Community managers? Of course.
+
+But we're also talking about workers whom players may not instantly associate with production. What about factory workers who manufacture the consoles that games are played on? And workers mining the [coltan](https://videogamesoftheoppressed.wordpress.com/2014/08/22/conflict-minerals-and-games/) used in those consoles? How about the people working to prepare food at the cafeteria on the company campus? Even if it may be less obvious, these workers are all essential to the production of games. They're game workers too.
 
 If you're in the industry but currently unemployed, you're also a game worker. The same goes for students and interns.
 
