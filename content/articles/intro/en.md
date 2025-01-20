@@ -5,7 +5,7 @@ summary: A discussion of the latest goings-on in games and labour.
 
 ### **_Dear Reader…_**
 
-Welcome back to yet another rousing issue of the **Game Workers Unite Montréal(Collectif des travailleu·ses·rs de l’industrie du jeu) zine**. Before we jump into the thick of things, we thought we'd take a moment to look back on the events of the past year, both good and ill.
+Welcome back to yet another rousing issue of the **Game Workers Unite Montréal (Collectif des travailleu·ses·rs de l’industrie du jeu) zine**. Before we jump into the thick of things, we thought we'd take a moment to look back on the events of the past year, both good and ill.
 
 <div class="md-img">
 <img
