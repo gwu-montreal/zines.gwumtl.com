@@ -10,9 +10,9 @@ Want to print copies of this Game Workers Unite zine to share with your friends 
 
 3. The zine is full-color, but we've designed it to print just fine in grayscale (black-and-white), if you prefer!
 
-3. Print with [Adobe Reader](https://acrobat.adobe.com/ca/en/acrobat/pdf-reader.html) and make sure you choose the right settings when you're getting ready to print:
+4. Print with [Adobe Reader](https://acrobat.adobe.com/ca/en/acrobat/pdf-reader.html) and make sure you choose the right settings when you're getting ready to print:
 
-    a. "Booklet" mode should be selected, the booklet subset should be "both sides," the binding should be "left" and the orientation should be "portrait" (as seen in the screenshot below).
+   a. "Booklet" mode should be selected, the booklet subset should be "both sides," the binding should be "left" and the orientation should be "portrait" (as seen in the screenshot below).
 
   <p class="md-img">
     <img alt="booklet mode screenshot" src="/images/booklet_mode.jpg">
@@ -24,7 +24,7 @@ Want to print copies of this Game Workers Unite zine to share with your friends 
     <img alt="print as image screenshot" src="/images/print_as_image.jpg">
   </p>
 
-4. When your 16 sheets are printed, you should see the outside covers on one side of the stack, and the map centerfold on the other side. Staple twice on the outside, so the legs are visible along the center vertical of the map, as shown:
+4. When your 16 sheets are printed, you should see the outside covers on one side of the stack, and the centerfold on the other side. Staple twice on the outside, so the legs are visible along the center vertical of the centerfold, as shown:
 
   <p class="md-img">
     <img alt="stapled zine" src="/images/inside_staples.jpg">
