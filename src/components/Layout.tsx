@@ -18,11 +18,7 @@ interface BaseLayoutProps {
 type LayoutProps = BaseLayoutProps &
   ({ children: React.ReactNode } | { contents: string; summary: string });
 
-const { mapcontainer, faqcontainer, faqbody, faqheader } = css`
-  .mapcontainer {
-    width: 100%;
-  }
-
+const { faqcontainer, faqbody, faqheader } = css`
   .faqcontainer {
     border-radius: 5px;
     background-color: rgb(246, 246, 255);
@@ -51,7 +47,7 @@ const Layout = ({
   const isFaq = type === "unionfaqs";
 
   const resolvedContainerClass = `${containerClassName} ${
-    isFaq ? faqcontainer : type === "map" ? mapcontainer : ""
+    isFaq ? faqcontainer : ""
   }`;
 
   // prettier-ignore

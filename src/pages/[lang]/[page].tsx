@@ -1,12 +1,9 @@
 import React from "react";
-// import dynamic from "next/dynamic";
 
 import Layout from "~/components/Layout";
 
 import type { GetStaticProps, GetStaticPaths } from "next";
 import type { ArticleTypes } from "~/lib/consts";
-
-// const Map = dynamic(() => import("~/components/Map"));
 
 // even though we don't use all these static props in the component, our app
 // wrapper (_app.tsx) also receives them and consumes them.
@@ -19,25 +16,9 @@ type PageProps = {
   summary: string;
 };
 
-const Page = ({ title, type, content, summary }: PageProps) => {
-  if (type === "map") {
-    throw new Error("Re-enable the map CSS and imports to use it!");
-    // return (
-    //   <Layout pageTitle={title} type={type}>
-    //     <Map />
-    //   </Layout>
-    // );
-  }
-
-  return (
-    <Layout
-      pageTitle={title}
-      type={type}
-      contents={content}
-      summary={summary}
-    />
-  );
-};
+const Page = ({ title, type, content, summary }: PageProps) => (
+  <Layout pageTitle={title} type={type} contents={content} summary={summary} />
+);
 
 export const getStaticProps: GetStaticProps<
   PageProps,

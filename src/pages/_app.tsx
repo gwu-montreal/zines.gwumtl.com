@@ -7,10 +7,6 @@ import { SiteDataProvider, DEFAULT_LANG } from "~/lib/site-data";
 
 import "~/styles/index.css";
 
-// for map
-// (disabled since we've also disabled the map for now.)
-// import "react-popper-tooltip/dist/styles.css";
-
 class MyApp extends App {
   render() {
     const { Component, pageProps } = this.props;

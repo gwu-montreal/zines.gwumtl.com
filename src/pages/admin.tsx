@@ -42,7 +42,7 @@ const init = async (props: PageProps) => {
           label: "Type",
           name: "type",
           widget: "select",
-          options: ["default", "unionfaqs", "bare", "map"],
+          options: ["default", "unionfaqs", "bare"],
           required: false,
         },
         {
@@ -101,7 +101,7 @@ const init = async (props: PageProps) => {
   //         label: "Type",
   //         name: "type",
   //         widget: "select",
-  //         options: ["default", "unionfaqs", "bare", "map"],
+  //         options: ["default", "unionfaqs", "bare"],
   //         required: false,
   //       },
   //       {
