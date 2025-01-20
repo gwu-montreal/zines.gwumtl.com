@@ -2,7 +2,9 @@
 title: Un mot de la rédaction
 ---
 
-Bienvenue dans cette édition survoltée du zine **Collectif des travailleu·ses·rs de l’industrie du jeu/Game Workers Unite Montréal** (CTIJ/GWU). Avant de s’attaquer au gros du sujet, prenons un moment pour jeter un oeil aux dénouements de l’année passée, bons et mauvais.
+  Bienvenue dans cette édition survoltée du magazine **Collectif des travailleu·ses·rs de l’industrie du jeu / Game Workers Unite Montréal** (CTIJ/GWU). La version originale de ce zine a été rédigée <strong>en 2018</strong>, à une époque où la syndicalisation de l'industrie du jeu vidéo n'en était qu'à ses tous premiers pas, et la situation dans l'industrie a beaucoup évoluée depuis! À travers le monde, plusieurs studios se sont maintenant syndiqués, les premières conventions collectives ont été négociées, et partout dans le reste de l'industrie les travailleu·ses·rs s'organisent pour être les prochain·e·s à suivre.
+
+Pour cette édition de Janvier 2025, commençons par jeter un oeil aux dénouements de l’année précédente, bons et mauvais.
 
 <div class="md-img">
 <img
