@@ -1,9 +1,9 @@
 ---
 title: Comment les syndicats peuvent-ils aider ?
 ---
-Un syndicat est une organisation de travailleu·se·rs qui se consacre à **améliorer les salaires, les horaires et les conditions de travail** au sein de leur compagnie ou industrie à travers des négociations collectives. **Les syndicats mobilisent le pouvoir collectif des travailleu·se·rs** pour contrebalancer le pouvoir détenu par les patrons et actionnaires.
+Un syndicat, c'est une organisation de travailleu·ses·rs qui se consacre à **améliorer les salaires, les horaires et les conditions de travail** au sein de leur entreprise ou industrie, par le moyen de la négociation collective. **Les syndicats mobilisent le pouvoir collectif des travailleu·ses·rs** pour contrebalancer le pouvoir détenu par les patrons et actionnaires.
 
-En tant que travailleu·se·rs, nous bénéficions des luttes syndicales menées avant nous. Voici quelques exemples de combats remportés par les syndicats dans le passé :
+En tant que travailleu·ses·rs, nous bénéficions des luttes syndicales menées avant nous. Voici quelques exemples de combats remportés par les syndicats dans le passé :
 
 Normes de sécurité • Assurance maladie • Fin des heures supplémentaires non payées • Assurance chômage • Protection face aux licenciements de masse et renvois injustes • Politiques anti-harcèlement • Réduction de la disparité salariale • Congés maladie payés • Congés parentaux payés • Congés annuels • Retraite • Week-ends • Pauses repas • Abolition du travail des enfants
 
@@ -21,7 +21,7 @@ Les sections suivantes expliquent plus précisément par quels moyens les syndic
 />
 </div>
 
-La plupart du travail dans le jeu vidéo repose sur des contrats ou “projets”, beaucoup de travailleu·se·rs risquent donc de se retrouver sans emploi lorsque les projets s’achèvent. C’est une façon malsaine de travailler, mais en plus, les travailleu·se·rs sont parfois licencié·e·s sans aucune forme d’avertissement.
+La plupart du travail dans le jeu vidéo se fait sur la base de contrats ou “projets”. Beaucoup de travailleu·se·rs risquent donc de se retrouver sans emploi lorsque les projets s’achèvent. C’est une façon précaire de travailler, mais en plus, les travailleu·se·rs sont parfois licencié·e·s sans aucune forme d’avertissement.
 
 Vous ignorez peut-être comment les syndicats peuvent être utiles dans l’éventualité de licenciements collectifs; les suppressions d’emplois, on n’y peut rien, n’est-ce-pas? Détrompez vous. L’une des choses les plus importantes qu’un syndicat puisse accomplir pour un milieu de travail est une **convention collective de travail** (CCT). Une CCT n’est pas la seule technique pour faire des demandes — mais son efficacité est prouvée, et la plupart des CCT apportent une protection pour les travailleu·se·rs contre les licenciements :
 
