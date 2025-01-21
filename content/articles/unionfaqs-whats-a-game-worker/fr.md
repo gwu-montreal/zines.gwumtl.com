@@ -5,7 +5,7 @@ type: unionfaqs
 
 Nous encourageons l'usage du mot «travailleu·se·r» plutôt que les termes «employé·e» ou «développeu·se·r», du moins lorsqu’on ne fait pas référence à une profession en particulier (comme ce serait le cas lorsqu’on désigne un·e «programmeu·se·r» ou un·e «artiste»).
 
-Le terme «travailleu·se·r» est plus inclusif et se rapproche plus des réalités de l’industrie du jeu vidéo que peuvent le faire d’autres mots, voici pourquoi.
+Le terme «travailleu·se·r» est plus inclusif et se rapproche plus des réalités de l’industrie du jeu vidéo que peuvent le faire d’autres mots. Voici pourquoi.
 
 ## Les jeux vidéos ne sont pas faits en vase clos
 
