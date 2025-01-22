@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="8.0(370)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="8.0" Self="pandoc_doc">
+    <RootCharacterStyleGroup Self="pandoc_character_styles">
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+    </RootCharacterStyleGroup>
+    <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
+          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+        <Properties>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string"></Leader>
+              <Position type="unit">10</Position> <!-- first tab stop -->
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header4" Name="Header4" LeftIndent="0" PointSize="18">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+    </RootParagraphStyleGroup>
+    <RootTableStyleGroup Self="pandoc_table_styles">
+      <TableStyle Self="TableStyle/Table" Name="Table" />
+    </RootTableStyleGroup>
+    <RootCellStyleGroup Self="pandoc_cell_styles">
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+    </RootCellStyleGroup>
+  <Story Self="pandoc_story"
+      TrackChanges="false"
+      StoryTitle=""
+      AppliedTOCStyle="n"
+      AppliedNamedGrid="n" >
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+
+<!-- body needs to be non-indented, otherwise code blocks are indented too far -->
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#les-tactiques-anti-syndicalistes-à-reconnaître" Name="Destination" DestinationUniqueKey="1" />
+    <Content>Les tactiques anti-syndicalistes à reconnaître</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Tandis que les discussions autour de la syndicalisation se répandent dans l’industrie, les boss qui se sentent menacés déploient un ensemble de tactiques pour briser les efforts d’organisation et décourager leurs employé·e·s. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Heureusement, leur arsenal est plutôt limité</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> : à chaque époque, dans toutes les industries, les mêmes coups bas sont répétés encore et encore. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>En apprenant à les reconnaître et en prévenant nos collègues, on peut être préparés lorsque ces tactiques seront inévitablement déployées</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, et les rendre totalement inefficaces. Voici quelques classiques :</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#la-réunion-à-auditoire-captif" Name="Destination" DestinationUniqueKey="1" />
+    <Content>La réunion à </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#la-réunion-à-auditoire-captif" Name="Destination" DestinationUniqueKey="1" />
+    <Content>“auditoire captif”</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Si le management remarque un effort d’organisation des travailleu.se.rs (ou même une vague mention de syndicat) au bureau, leur première réponse sera typiquement d’organiser une réunion à </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“auditoire captif”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Il sera requis pour tous les employé·e·s d’y assister, et le meeting sera une discussion à sens unique où le management portera un discours anti-union </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>afin de répandre peur, suspicion et briser la confiance entre employé·e·s</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. L’objectif est d’atteindre tous les employé·e·s qui n’ont pas encore d’opinion sur les syndicats, avant que leurs collègues ne les éduquent, et d’inculquer des préconceptions péjoratives sur le sujet. Vous avez de fortes chances d’observer, durant ces meetings, bon nombres des techniques anti-syndicalisation décrites dans cette liste, et la meilleure façon pour vous et vos collègues de les contrer est de savoir à quoi s’attendre !</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>On constate également que sur le sujet des syndicats, les managers vont souvent répéter ces arguments sur toutes les plateformes disponibles, qu’il s’agisse de conférences sur l’industrie du jeu vidéo, ou de sites orientés sur l’industrie…</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#la-politique-de-la-porte-ouverte" Name="Destination" DestinationUniqueKey="1" />
+    <Content>La politique de la </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#la-politique-de-la-porte-ouverte" Name="Destination" DestinationUniqueKey="1" />
+    <Content>“porte ouverte”</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Les patrons encouragent souvent leurs employé·e·s à venir leur parler directement des problèmes qu’ils rencontrent, insistant que </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“leur porte est toujours ouverte”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> et que personne ne sera réprimandé pour avoir fait part de ses inquiétudes. Une tactique bien rodée, également utilisée chez des compagnies telles que Wal-Mart et </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>Amazon</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, cette politique de la </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“porte ouverte”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> semble inoffensive au premier abord.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>En vérité, c’est </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>la principale méthode que le management utilise pour maintenir son contrôle sur le flux d’information au bureau</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, et pour tuer dans l’oeuf le moindre mouvement syndical. Ils se diront être en mesure d’aider, qu’ils sont sincèrement concernés par votre bien-être. C’est un piège, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>un moyen de s’assurer que les employé·e·s n’interagissent avec le management qu’en tant qu’individus isolés et impuissants</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, au lieu de se tourner vers leurs collègues pour obtenir soutien et solidarité. Les patrons offriront de vagues promesses, des excuses, répétant que vos soucis seront pris au sérieux et adressés, tout en vous conseillant de rester discret et de ne discuter de ces problèmes que directement avec eux. S’ils vous surprennent à partager vos craintes avec vos collègues, cette attitude de support ne tardera sûrement pas à disparaître, ce qui souligne </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>l’importance de commencer toute forme d’organisation loin des yeux et oreilles des managers</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#les-syndicats-marchent-peut-être-très-bien-pour-dautres-compagniesindustries-mais-cest-différent-ici" Name="Destination" DestinationUniqueKey="1" />
+    <Content>“Les syndicats marchent peut-être très bien pour d’autres compagnies/industries, mais c’est différent ici !”</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Que ce soit parce que </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“les jeux sont un médium trop créatif”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, que </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“l’industrie est trop jeune”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“trop dépendante de votre flexibilité”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, ou parce que la compagnie est </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“trop indie”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> ou </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“trop grande”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“ne fait pas assez de bénéfices”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> ou </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“en fait trop”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> — vous entendrez toutes sortes de raisons données pour justifier à quel point votre travail est spécial, unique, et différent lorsque la question de se syndiquer est soulevée. Bizarrement, on constate que les patrons dans tous les types d’industries servent les mêmes arguments à leurs employé·e·s ! (Astuce : c’est toujours un mensonge.)</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#décrire-le-syndicat-comme-un-parti-tiers" Name="Destination" DestinationUniqueKey="1" />
+    <Content>Décrire le syndicat comme un </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#décrire-le-syndicat-comme-un-parti-tiers" Name="Destination" DestinationUniqueKey="1" />
+    <Content>“parti tiers”</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Beaucoup de patrons décrivent les syndicats comme une sorte d’organisation tierce qui viendra se mettre entre vous et la direction, ruinant au passage votre relation familiale harmonieuse, ou bien tentant de s’enrichir sur votre dos. Vous entendrez peut-être même dire qu’il s’agit de dangereux extrémistes cherchant à renverser le capitalisme ! Mais en réalité, le syndicat n’est pas un tiers, c’est vous. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Vous et vos collègues formez ce syndicat et décidez ensemble de chaque action à prendre</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, pas une personne extérieure à la compagnie - et ce que votre patron redoute fondamentalement est </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>l’émancipation que vous allez gagner en vous syndiquant</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#vous-ne-pouvez-pas-avoir-de-syndicat-parce-que-vous-nêtes-pas-réellement-des-employées" Name="Destination" DestinationUniqueKey="1" />
+    <Content>“Vous ne pouvez pas avoir de syndicat, parce que vous n’êtes pas réellement des employé·e·s !”</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>De plus en plus d’employeurs tentent de rendre floue la nature de leur relation avec les employé·e·s, par exemple en les désignant comme étant </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“partenaires”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> ou </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“associés”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, prétendant que l’on n’est au fond qu’un grand groupe d’amis; </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>c’est juste que certains amis possèdent la compagnie, et d’autres non</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> ! Une autre tactique répandue est de distribuer des titres de </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“manager”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, mais sans le pouvoir de décision ou la paie additionnelle qui vont avec.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Peut-être plus important encore, bon nombre de travailleu·se·rs de l’industrie du jeu vidéo qui devraient être reconnu·e·s en temps qu’employé·e·s à part entière sont en fait embauchés en tant que freelance, afin de contourner les obligations légales envers les employé·e·s. C’est un problème commun dans des secteurs comme le QA. Cependant, de plus en plus de syndicats se spécialisent dans l’aide à des travailleu·se·rs dans cette situation, se battant pour leur gagner un statut d’employé·e·s à part entière et obtenir de meilleures conditions de travail. Récemment, des artistes et conférenci·ères·ers (principalement des femmes) à la Britain’s National Gallery </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>ont gagné un litige</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> qui a confirmé que, puisqu’elles·ils étaient obligé·e·s de participer à des sessions d’entraînement et étaient payé·e·s par les mêmes sources que les employé·e·s non-contractuels, elles·ils n’étaient bel et bien pas </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“à leur compte”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Cela signifie qu’elles·ils avaient droit aux mêmes bénéfices que les employé·e·s soi-disant </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“permanent·e·s”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Souvenez-vous : si on vous embaûche pour travailler pour quelqu’un qui profite de la vente de ce que vous produisez, vous pouvez vous syndiquer.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#menaces-de-sous-traitance-et-suppression-demplois" Name="Destination" DestinationUniqueKey="1" />
+    <Content>Menaces de sous-traitance et suppression d’emplois</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Une réplique très courante - souvent internalisée par les employé·e·s - est que si elles·ils se syndiquent, des postes seront supprimés ou sous-traités là où le travail est moins coûteux. Même si votre patron vous assure qu’il est </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“vraiment désolé”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, que c’est </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“comme ça que ça fonctionne”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, ou qu’il vous menace ouvertement de représailles directes en cas de syndicalisation, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>il faut garder à l’esprit que ces menaces visent à créer l’obéissance à travers l’intimidation. Ils n’ont en général aucune base concrète sur laquelle appuyer ces propos.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Les boss licencient régulièrement des travailleu.se.rs sans aucune bonne raison, et se syndiquer est la seule façon de vous en protéger. Souvenez-vous, c’est notre travail qui crée de la valeur pour les entrepreneurs; nos patrons ne peuvent pas se débarrasser de chacun·e d’entre nous, ou bien ils perdraient la source de leurs revenus. De plus, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>relocaliser est une initiative extrêmement coûteuse pour toute entreprise, et n’est pas une décision qui peut être prise simplement pour punir des travailleu.se.rs qui se syndiquent</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. C’est d’autant plus vrai si le mouvement de syndicalisation dépasse les frontières, de sorte qu’il n’existe nulle part où aller pour les employeurs - d’où l’importance de donner une ampleur internationale à nos efforts de syndicalisation, en solidarité avec nos camarades travailleu.se.rs tout autour du globe !</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#le-guilt-trip" Name="Destination" DestinationUniqueKey="1" />
+    <Content>Le </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#le-guilt-trip" Name="Destination" DestinationUniqueKey="1" />
+    <Content>“guilt trip”</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Certains patrons, en particulier ceux qui se considèrent comme des </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“bons patrons”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> et maintiennent le contact avec leurs employé·e·s, risquent de réagir aux initiatives de syndicalisation en le prenant très personnellement. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Ces patrons tâcheront de vous donner l’impression d’être en train de commettre une horrible trahison en considérant la possibilité de vous syndiquer</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, et tenteront de vous reprocher votre </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“ingratitude”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, ou vous donner le sentiment que vous leur devriez être reconnaissants qu’ils vous aient </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“donné”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> un job.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Souvenez-vous, le problème central est le déséquilibre de pouvoir entre eux et vous, et qu’ils réagissent ainsi parce qu’ils sont tant habitués à détenir ce pouvoir que </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>le moindre pas vers une relation plus juste les dérange</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Certains patrons ont réagi aux initiatives de syndicalisation en pleurant ! Ces sentiments peuvent être sincères, mais c’est au thérapiste de votre patron de s’en préoccuper, pas à ses employé·e·s.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#le-syndicat-dentreprise" Name="Destination" DestinationUniqueKey="1" />
+    <Content>Le </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#le-syndicat-dentreprise" Name="Destination" DestinationUniqueKey="1" />
+    <Content>“syndicat d’entreprise”</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Certains patrons se déclarent en faveur des syndicats, et vous offriront même d’aider à en mettre un en place. Vous pourriez penser être chanceux de travailler au compte d’un employeur aussi progressiste. Ils pourraient même faire venir des gens qui s’en occuperaient pour vous et se chargeraient de tous les détails compliqués… Jusqu’à ce que vous réalisiez que votre nouveau </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“syndicat”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> a été mis en place sans aucune forme d’organisation entre les travailleu.se.rs, qu’il inclut le management de la compagnie dans sa chaine de décision, qu’il reproduit les mêmes dynamiques de pouvoir déjà présentes sur le lieu de travail, et qu’il a été construit avec la même structure descendante qui garantit sa loyauté aux patrons plutôt qu’aux employé·e·s. Cette sorte de coopération est un vrai danger qui peut complètement neutraliser l’énergie </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“pro-syndicat”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> qui habitait les employé·e·s, et retarder dramatiquement tout effort sincère de syndicalisation - </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>ne laissez pas passer ça</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> !</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Un rôle similaire est joué par des organisations d’industrie qui annoncent publiquement qu’elles représentent les intérêts des développeu·se·rs de jeux, mais qui </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>en pratique sont dirigées et fondées exclusivement par des patrons et managers d’entreprise</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, et ont systématiquement choisi de s’associer à leurs intérêts plutôt qu’à ceux des employé·e·s en cas de conflit. L’IGDA est l’une de ces organisations. Un rôle semblable est occupé au Québec par </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“La Guilde”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, et en France par le </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“Syndicat National du Jeu Vidéo”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (SNJV, à ne pas confondre avec le STJV, Syndicat des Travailleurs et Travailleuses du Jeu Vidéo, qui est le véritable syndicat français des travailleu.ses.rs du jeu vidéo)</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#briseurs-de-grèves" Name="Destination" DestinationUniqueKey="1" />
+    <Content>Briseurs de grèves</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>L’un des stratagèmes les plus vicieux qu’un patron puisse employer, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>les </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>“briseurs de grèves”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content> sont des gens qui, en tant que travailleu.se.rs eux-mêmes et donc potentiels futurs membres d’un syndicat, reçoivent un traitement de faveur en récompense pour tourner le dos à leurs collègues</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Les briseurs de grèves sont souvent déployés temporairement depuis l’extérieur, de façon à remplacer en urgence les employé·e·s qui essaient de se syndiquer. Les patrons iront parfois même jusqu’à offrir aux briseurs de grèves toutes les demandes que les travailleu.se.rs qui se syndiquent avaient initialement réclamées, tout en continuant de les refuser aux autres - juste afin de vous démoraliser, en démontrant que bien que ces demandes puissent facilement être mises en place, il s’agit surtout de vous punir </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“pour le principe”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> d’avoir défendu vos droits.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Pendant la grève des doubleu·ses·rs de la SAG-AFTRA en 2017, l’emploi de voice doubleurs briseurs de grèves fut notamment utilisé -</Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>et grandement critiqué</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>- dans </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Before the Storm</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, la préquelle de </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Life is Strange</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Afin de travailler vers l’objectif à long-terme d’une industrie du jeu vidéo syndicalisée, il est important de créer une culture où accepter un contrat de briseur·se de grève est véritablement traité comme l’acte méprisable dont il s’agit - un acte qui finit par causer du tort aux briseur·se·s de grève eux-mêmes sur le long terme.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+
+  </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//waypoint.vice.com/en_us/article/yw55zx/crappy-voice-acting-undercuts-an-otherwise-strong-life-is-strange-prequel" Name="link" DestinationURL="https://waypoint.vice.com/en_us/article/yw55zx/crappy-voice-acting-undercuts-an-otherwise-strong-life-is-strange-prequel" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="https://waypoint.vice.com/en_us/article/yw55zx/crappy-voice-acting-undercuts-an-otherwise-strong-life-is-strange-prequel" Source="htss-3" Visible="false" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//waypoint.vice.com/en_us/article/yw55zx/crappy-voice-acting-undercuts-an-otherwise-strong-life-is-strange-prequel</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.independent.co.uk/news/uk/home-news/national-gallery-workers-rights-gig-economy-public-sector-employment-tribunal-art-educators-a8803641.html" Name="link" DestinationURL="https://www.independent.co.uk/news/uk/home-news/national-gallery-workers-rights-gig-economy-public-sector-employment-tribunal-art-educators-a8803641.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="https://www.independent.co.uk/news/uk/home-news/national-gallery-workers-rights-gig-economy-public-sector-employment-tribunal-art-educators-a8803641.html" Source="htss-2" Visible="false" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.independent.co.uk/news/uk/home-news/national-gallery-workers-rights-gig-economy-public-sector-employment-tribunal-art-educators-a8803641.html</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201" Name="link" DestinationURL="https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201" Source="htss-1" Visible="false" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201</Destination>
+    </Properties>
+  </Hyperlink>
+</Document>

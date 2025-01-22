@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="8.0(370)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="8.0" Self="pandoc_doc">
+    <RootCharacterStyleGroup Self="pandoc_character_styles">
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+    </RootCharacterStyleGroup>
+    <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
+          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+        <Properties>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string"></Leader>
+              <Position type="unit">10</Position> <!-- first tab stop -->
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/NumList &gt; first" Name="NumList &gt; first" NumberingExpression="^#.^t" NumberingLevel="1" BulletsAndNumberingListType="NumberedList" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/NumList &gt; first &gt; beginsWith-2" Name="NumList &gt; first &gt; beginsWith-2" NumberingExpression="^#.^t" NumberingLevel="1" BulletsAndNumberingListType="NumberedList" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/NumList &gt; first &gt; beginsWith-3" Name="NumList &gt; first &gt; beginsWith-3" NumberingExpression="^#.^t" NumberingLevel="1" BulletsAndNumberingListType="NumberedList" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/NumList &gt; first &gt; beginsWith-4" Name="NumList &gt; first &gt; beginsWith-4" NumberingExpression="^#.^t" NumberingLevel="1" BulletsAndNumberingListType="NumberedList" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/NumList &gt; first &gt; beginsWith-5" Name="NumList &gt; first &gt; beginsWith-5" NumberingExpression="^#.^t" NumberingLevel="1" BulletsAndNumberingListType="NumberedList" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/NumList &gt; first &gt; beginsWith-6" Name="NumList &gt; first &gt; beginsWith-6" NumberingExpression="^#.^t" NumberingLevel="1" BulletsAndNumberingListType="NumberedList" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+    </RootParagraphStyleGroup>
+    <RootTableStyleGroup Self="pandoc_table_styles">
+      <TableStyle Self="TableStyle/Table" Name="Table" />
+    </RootTableStyleGroup>
+    <RootCellStyleGroup Self="pandoc_cell_styles">
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+    </RootCellStyleGroup>
+  <Story Self="pandoc_story"
+      TrackChanges="false"
+      StoryTitle=""
+      AppliedTOCStyle="n"
+      AppliedNamedGrid="n" >
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+
+<!-- body needs to be non-indented, otherwise code blocks are indented too far -->
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Intéressé·e à l’idée de vous organiser avec vos collègues, mais aucune idée de par où commencer? Voici 6 étapes simples qui vous mettront sur la voie pour former un syndicat! </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Assurez vous de tenir vos discussions à propos d’un éventuel syndicat loin des oreilles de vos employeurs, même si vous les estimez sympathiques à votre cause</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; first" NumberingContinue="false">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Contactez les syndicats et organisations existantes dans votre région</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> pour obtenir de l’aide, des conseils, et du support. Les chapitres Game Workers Unite, les syndicats industriels et de métiers associés, ainsi que les syndicats de travailleu·ses·rs du jeu vidéo internationaux sont tous d’excellentes ressources pour apprendre à syndiquer votre lieu de travail, et établir des relations augmentera l’efficacité des actions de chaque interlocut·rice·eur à l’avenir. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Si possible, adressez vous à des organisat·rices·eurs expérimenté·e·s ou assistez à une session d’entraînement sur comment organiser des travailleu·se·rs.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange NumberingStartAt="2" AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; beginsWith-2" NumberingContinue="false">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Parlez à vos collègues</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, seul·e à seul·e, à propos des problèmes qu’iels rencontrent au travail, à l’écart du management. Posez des questions, et laissez-les vous parler des choses qu’iels aimeraient améliorer; écoutez attentivement, sans partir du principe que vous savez déjà quels sont leurs problèmes. Apportez compréhension et support, et aidez-les à réaliser qu’iels ne sont pas seul·e·s face à ces enjeux. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Ne commencez pas à parler de syndicat dès maintenant!</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Commencez par identifier les problèmes à résoudre.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange NumberingStartAt="3" AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; beginsWith-3" NumberingContinue="false">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Aidez-les à identifier des solutions collectives aux problèmes qu’iels ont soulevés</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Simplement parler des obstacles rencontrés n’est pas suffisant; s’arrêter à ce point ne fera qu’amasser de la colère de de la frustration sans adresser ces sentiments de façon constructive. Votre objectif est de guider vos collègues et les amener à envisager l’action collective comme une solution à leurs problèmes, en posant des questions et en écoutant leurs réponses. Des questions ouvertes telles que </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“Qui d’autre partage ton avis sur ces problèmes?”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> et </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“Que se passerait-il si…”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> sont utiles. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Soyez toujours honnête!</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Ne survendez pas ce qu’il est possible de faire, et ne minimisez pas les dangers potentiels.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange NumberingStartAt="4" AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; beginsWith-4" NumberingContinue="false">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Organisez une première action</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> pour résoudre un problème simple et atteignable. Pas besoin d’avoir toute la compagnie derrière vous! Commencez par 10% de vos collègues, et visez un objectif concret et réalisable: demander du café gratuit, ou se plaindre auprès du patron en groupe. En gagnant ces combats, vous et vos collègues pourrez constater le pouvoir de l’action collective, gagner du courage et de l’expérience ; et en inspirerez d’autres à vous rejoindre dans les actions à venir. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Avant de faire ce premier pas, cependant…</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange NumberingStartAt="5" AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; beginsWith-5" NumberingContinue="false">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Préparez vos collègues à la réaction des patrons</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> lorsqu’ils se rendront compte que vous vous organisez. Les patrons ont de nombreuses tactiques pour briser l’effort d’organisation des travailleu·ses·rs, et elles peuvent être très efficaces et intimidantes pour celleux qui ne sont pas préparé·e·s, mais elles sont aussi très prévisibles. Apprenez ces tactiques vous-même, et partagez les avec vos collègues. Ces arguments anti-syndicats sont bien moins efficaces lorsqu’on les voit venir et qu’on a une chance de les contrer.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange NumberingStartAt="6" AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; beginsWith-6" NumberingContinue="false">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Poussez vos collègues à devenir eux-mêmes organisat·rice·eurs</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Vous ne pouvez pas tout faire vous-même, donc aidez vos collègues à s’impliquer en déléguant des tâches et en faisant du suivi. Une tâche peut prendre n’importe quelle forme, de la prise de notes durant un meeting, à la conception et l’impression de flyers, ou au recrutement de nouveaux membres. N’oubliez pas d’établir des deadlines et du suivi sur ces tâches, c’est un travail très important, et le faire est très valorisant. Tôt ou tard, vos collègues finiront par suggérer leurs propres tâches et s’autogérer!</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Ne rendez votre travail d’organisation public que lorsque vous êtes confiant d’avoir le soutien de la majorité des employé·e·s</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, et avez établi un plan concret sur lequel tout le monde est d’accord. Beaucoup se sont fait licencier pour avoir essayé de se syndiquer, donc faites attention à protéger votre vie privée et celle de vos collègues. Dans la plupart des pays, le droit d’un·e travailleu·ses·rs à se syndiquer est protégé par la loi, donc assurez vous de vous informer sur vos droits (les syndicats locaux peuvent aider).</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Contactez-nous pour plus de détails. Les applications pour devenir membre de GWU ainsi que les liens vers les branches locales sont disponibles ici: </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>www.gameworkersunite.org/get-involved</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>S’il n’y a aucune branche GWU dans votre région, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>contactez GWU international</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> et nous pouvons vous aider à entrer en contact avec les syndicats locaux et même démarrer votre propre branche!</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+
+  </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.gameworkersunite.org/contact-us" Name="link" DestinationURL="https://www.gameworkersunite.org/contact-us" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="https://www.gameworkersunite.org/contact-us" Source="htss-2" Visible="false" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.gameworkersunite.org/contact-us</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.gameworkersunite.org/get-involved" Name="link" DestinationURL="http://www.gameworkersunite.org/get-involved" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="http://www.gameworkersunite.org/get-involved" Source="htss-1" Visible="false" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.gameworkersunite.org/get-involved</Destination>
+    </Properties>
+  </Hyperlink>
+</Document>
