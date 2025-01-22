@@ -3,7 +3,7 @@
 <?aid SnippetType="InCopyInterchange"?>
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
-      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default"/>
       <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -11,14 +11,13 @@
       </CharacterStyle>
     </RootCharacterStyleGroup>
     <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
-      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
-          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
         <Properties>
           <TabList type="list">
             <ListItem type="record">
               <Alignment type="enumeration">LeftAlign</Alignment>
               <AlignmentCharacter type="string">.</AlignmentCharacter>
-              <Leader type="string"></Leader>
+              <Leader type="string"/>
               <Position type="unit">10</Position> <!-- first tab stop -->
             </ListItem>
           </TabList>
@@ -36,17 +35,13 @@
       </ParagraphStyle>
     </RootParagraphStyleGroup>
     <RootTableStyleGroup Self="pandoc_table_styles">
-      <TableStyle Self="TableStyle/Table" Name="Table" />
+      <TableStyle Self="TableStyle/Table" Name="Table"/>
     </RootTableStyleGroup>
     <RootCellStyleGroup Self="pandoc_cell_styles">
-      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell"/>
     </RootCellStyleGroup>
-  <Story Self="pandoc_story"
-      TrackChanges="false"
-      StoryTitle=""
-      AppliedTOCStyle="n"
-      AppliedNamedGrid="n" >
-    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+  <Story Self="pandoc_story" TrackChanges="false" StoryTitle="" AppliedTOCStyle="n" AppliedNamedGrid="n">
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12"/>
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -57,15 +52,14 @@
     <Content>. A union is a group of workers organizing together, regardless of whether or not they’re a registered legal entity. If that’s not always obvious today, it’s because many governments impose daunting-sounding legal requirements for forming a union; for example, in Australia a trade union needs at least 1000 members to be officially recognized. These requirements are the result of decades of lobbying by business owners. It’s meant to weaken the power of labour and undermine our ability to build collective power.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Fortunately, we don’t need to follow these rules to start organizing! And you definitely don’t need your whole industry or your whole workplace on board to start changing things for the better. You can start by talking to your coworkers — off the clock, in private — about things you wish were better. Existing labour organizations can help you figure out how to rally together and get organized from the ground up. And if you’re working in a big multinational, international groups like the Industrial Workers of the World (IWW) might be your best help at building workplace solidarity across offices and borders: one of the ways unions have been hobbled by law is by limiting their legal existence to a single country.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="">
-</ParagraphStyleRange>
+<Br/>
+
 
   </Story>
   

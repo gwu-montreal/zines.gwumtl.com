@@ -3,7 +3,7 @@
 <?aid SnippetType="InCopyInterchange"?>
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
-      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default"/>
       <CharacterStyle Self="CharacterStyle/Link" Name="Link">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -11,14 +11,13 @@
       </CharacterStyle>
     </RootCharacterStyleGroup>
     <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
-      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
-          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
         <Properties>
           <TabList type="list">
             <ListItem type="record">
               <Alignment type="enumeration">LeftAlign</Alignment>
               <AlignmentCharacter type="string">.</AlignmentCharacter>
-              <Leader type="string"></Leader>
+              <Leader type="string"/>
               <Position type="unit">10</Position> <!-- first tab stop -->
             </ListItem>
           </TabList>
@@ -73,17 +72,13 @@
       </ParagraphStyle>
     </RootParagraphStyleGroup>
     <RootTableStyleGroup Self="pandoc_table_styles">
-      <TableStyle Self="TableStyle/Table" Name="Table" />
+      <TableStyle Self="TableStyle/Table" Name="Table"/>
     </RootTableStyleGroup>
     <RootCellStyleGroup Self="pandoc_cell_styles">
-      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell"/>
     </RootCellStyleGroup>
-  <Story Self="pandoc_story"
-      TrackChanges="false"
-      StoryTitle=""
-      AppliedTOCStyle="n"
-      AppliedNamedGrid="n" >
-    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+  <Story Self="pandoc_story" TrackChanges="false" StoryTitle="" AppliedTOCStyle="n" AppliedNamedGrid="n">
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12"/>
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -91,25 +86,25 @@
     <Content>Vous voulez faire des copies de ce zine Game Workers Unite pour les partager avec vos ami·e·s et collègues? Voici les étapes que nous conseillons de suivre pour obtenir le meilleur résultat:</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; Paragraph" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Choisissez la ou les couvertures que vous aimez le plus! (Les liens de téléchargement sont en bas de cette page.)</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Imprimez en utilisant du papier à lettre (8.5 par 11 pouces). Le zine comporte 56 pages, et pour un exemplaire il vous faudra 14 feuilles de papier (pour 2 pages de chaque côté de la feuille).</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Le zine est en couleur, mais nous l’avons conçu pour vous permettre de l’imprimer en niveaux de gris (noir et blanc) si vous préférez!</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Imprimez avec </Content>
@@ -123,7 +118,7 @@
     <Content> et assurez vous de choisir les bons paramètres lorsque vous vous apprêtez à imprimer:</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; NumList &gt; first &gt; lowerAlpha" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Le mode </Content>
@@ -153,45 +148,41 @@
     <Content>(comme dans le screenshot ci-dessous).</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="">
-</ParagraphStyleRange>
-<Br />
+<Br/>
+
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/CodeBlock">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>b. Vous devez également ouvrir les paramètres avancés pour sélectionner l'option &quot;Imprimer en tant qu'image&quot; (Le résultat sera plus propre).</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="">
-</ParagraphStyleRange>
-<Br />
+<Br/>
+
+<Br/>
 <ParagraphStyleRange NumberingStartAt="4" AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; beginsWith-4" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Quand vos 16 pages seront imprimées, vous devriez avoir les couvertures extérieure d’un côté de votre pile d’impressions, et la carte centrale de l’autre côté. Agraffez deux fois à l’extérieur, afin que les fermetures de l’agraffe soient le long du centre vertical de la carte.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="">
-</ParagraphStyleRange>
-<Br />
+<Br/>
+
+<Br/>
 <ParagraphStyleRange NumberingStartAt="5" AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; beginsWith-5 &gt; Paragraph" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Le zine est assez épais, donc vous aurez peut-être du mal à le plier. Nous recommandons d’utiliser votre téléphone ou un autre objet plat pour tenir les pages en place lorsque vous les pliez.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; beginsWith-5 &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Et maintenant que vous avez imprimé et plié votre zine… La dernière étape est de le partager avec vos ami·e·s!</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="">
-</ParagraphStyleRange>
+<Br/>
+
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//acrobat.adobe.com/ca/en/acrobat/pdf-reader.html" Name="link" DestinationURL="https://acrobat.adobe.com/ca/en/acrobat/pdf-reader.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//acrobat.adobe.com/ca/en/acrobat/pdf-reader.html" Name="link" DestinationURL="https://acrobat.adobe.com/ca/en/acrobat/pdf-reader.html" DestinationUniqueKey="1"/>
   <Hyperlink Self="uf-1" Name="https://acrobat.adobe.com/ca/en/acrobat/pdf-reader.html" Source="htss-1" Visible="false" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>

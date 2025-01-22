@@ -3,7 +3,7 @@
 <?aid SnippetType="InCopyInterchange"?>
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
-      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default"/>
       <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -16,14 +16,13 @@
       </CharacterStyle>
     </RootCharacterStyleGroup>
     <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
-      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
-          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
         <Properties>
           <TabList type="list">
             <ListItem type="record">
               <Alignment type="enumeration">LeftAlign</Alignment>
               <AlignmentCharacter type="string">.</AlignmentCharacter>
-              <Leader type="string"></Leader>
+              <Leader type="string"/>
               <Position type="unit">10</Position> <!-- first tab stop -->
             </ListItem>
           </TabList>
@@ -41,17 +40,13 @@
       </ParagraphStyle>
     </RootParagraphStyleGroup>
     <RootTableStyleGroup Self="pandoc_table_styles">
-      <TableStyle Self="TableStyle/Table" Name="Table" />
+      <TableStyle Self="TableStyle/Table" Name="Table"/>
     </RootTableStyleGroup>
     <RootCellStyleGroup Self="pandoc_cell_styles">
-      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell"/>
     </RootCellStyleGroup>
-  <Story Self="pandoc_story"
-      TrackChanges="false"
-      StoryTitle=""
-      AppliedTOCStyle="n"
-      AppliedNamedGrid="n" >
-    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+  <Story Self="pandoc_story" TrackChanges="false" StoryTitle="" AppliedTOCStyle="n" AppliedNamedGrid="n">
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12"/>
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -95,13 +90,13 @@
     <Content> is more inclusive and has much more to do with the realities of the game development industry than any other term and here’s why.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Games aren’t made in a vacuum.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>When we talk about game workers, we’re referring to </Content>
@@ -113,7 +108,7 @@
     <Content>. Programmers, artists, designers, musicians? Yep. Voice and mocap actors, audio engineers? Definitely. Community managers? Of course.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>But we’re also talking about workers whom players may not instantly associate with production. What about factory workers who manufacture the consoles that games are played on? And workers mining the </Content>
@@ -127,25 +122,21 @@
     <Content> used in those consoles? How about the people working to prepare food at the cafeteria on the company campus? Even if it may be less obvious, these workers are all essential to the production of games. They’re game workers too.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>If you’re in the industry but currently unemployed, you’re also a game worker. The same goes for students and interns.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
+<Br/>
+
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Game work is work</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Game dev is haunted by the term </Content>
@@ -181,7 +172,7 @@
     <Content> is an industry-wide gaslighting practice.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>In this context, </Content>
@@ -199,19 +190,15 @@
     <Content>: you earn your place daily by providing specialized work in exchange for money and benefits.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
+<Br/>
+
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Credit where credit’s due</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>The divisive and controversial topic of credits in game dev is highly characteristic of the need for workers to politicize and reclaim the definition of what is game work. Each company has its own freestyle policy on game credits and workers recognition, and it’s common knowledge that whatever chosen formula ends up being a general </Content>
@@ -233,32 +220,31 @@
     <Content> from the credits of games they spent months or years working on. This comes as no surprise, in an industry where your job can have a completely different definition -or worth- depending on the studio that hires you. This lack of definition and recognition of who game workers are and what game work is highlights the need to unionize the industry, in order to give workers a foundation to stand up for their rights and what they are legitimately owed.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>In an industry where so much labor is erased or goes unrecognized, it’s important that we stick together, use the right vocab and resist bosses’ efforts to define our realities, gaslight, divide and conquer.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="">
-</ParagraphStyleRange>
+<Br/>
+
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//kotaku.com/how-game-companies-use-credits-to-reward-or-punish-de-1840905129" Name="link" DestinationURL="https://kotaku.com/how-game-companies-use-credits-to-reward-or-punish-de-1840905129" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//kotaku.com/how-game-companies-use-credits-to-reward-or-punish-de-1840905129" Name="link" DestinationURL="https://kotaku.com/how-game-companies-use-credits-to-reward-or-punish-de-1840905129" DestinationUniqueKey="1"/>
   <Hyperlink Self="uf-3" Name="https://kotaku.com/how-game-companies-use-credits-to-reward-or-punish-de-1840905129" Source="htss-3" Visible="false" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//kotaku.com/how-game-companies-use-credits-to-reward-or-punish-de-1840905129</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.videogameschronicle.com/features/opinion/game-credits-are-still-a-broken-mess/" Name="link" DestinationURL="https://www.videogameschronicle.com/features/opinion/game-credits-are-still-a-broken-mess/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.videogameschronicle.com/features/opinion/game-credits-are-still-a-broken-mess/" Name="link" DestinationURL="https://www.videogameschronicle.com/features/opinion/game-credits-are-still-a-broken-mess/" DestinationUniqueKey="1"/>
   <Hyperlink Self="uf-2" Name="https://www.videogameschronicle.com/features/opinion/game-credits-are-still-a-broken-mess/" Source="htss-2" Visible="false" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//www.videogameschronicle.com/features/opinion/game-credits-are-still-a-broken-mess/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//videogamesoftheoppressed.wordpress.com/2014/08/22/conflict-minerals-and-games/" Name="link" DestinationURL="https://videogamesoftheoppressed.wordpress.com/2014/08/22/conflict-minerals-and-games/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//videogamesoftheoppressed.wordpress.com/2014/08/22/conflict-minerals-and-games/" Name="link" DestinationURL="https://videogamesoftheoppressed.wordpress.com/2014/08/22/conflict-minerals-and-games/" DestinationUniqueKey="1"/>
   <Hyperlink Self="uf-1" Name="https://videogamesoftheoppressed.wordpress.com/2014/08/22/conflict-minerals-and-games/" Source="htss-1" Visible="false" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>

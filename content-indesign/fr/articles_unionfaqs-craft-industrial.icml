@@ -3,7 +3,7 @@
 <?aid SnippetType="InCopyInterchange"?>
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
-      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default"/>
       <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -11,14 +11,13 @@
       </CharacterStyle>
     </RootCharacterStyleGroup>
     <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
-      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
-          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
         <Properties>
           <TabList type="list">
             <ListItem type="record">
               <Alignment type="enumeration">LeftAlign</Alignment>
               <AlignmentCharacter type="string">.</AlignmentCharacter>
-              <Leader type="string"></Leader>
+              <Leader type="string"/>
               <Position type="unit">10</Position> <!-- first tab stop -->
             </ListItem>
           </TabList>
@@ -46,17 +45,13 @@
       </ParagraphStyle>
     </RootParagraphStyleGroup>
     <RootTableStyleGroup Self="pandoc_table_styles">
-      <TableStyle Self="TableStyle/Table" Name="Table" />
+      <TableStyle Self="TableStyle/Table" Name="Table"/>
     </RootTableStyleGroup>
     <RootCellStyleGroup Self="pandoc_cell_styles">
-      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell"/>
     </RootCellStyleGroup>
-  <Story Self="pandoc_story"
-      TrackChanges="false"
-      StoryTitle=""
-      AppliedTOCStyle="n"
-      AppliedNamedGrid="n" >
-    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+  <Story Self="pandoc_story" TrackChanges="false" StoryTitle="" AppliedTOCStyle="n" AppliedNamedGrid="n">
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12"/>
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -70,7 +65,7 @@
     <Content>.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Il existe aussi des syndicats appelés </Content>
@@ -82,7 +77,7 @@
     <Content> qui cherchent à organiser les travailleurs au sein d’une industrie, qu’importe leur métier, en poussant la main d’oeuvre de chaque compagnie à syndiquer leur lieu de travail, puis à se joindre aux autres dans le syndicat industriel. C’est le cas de la UAW (United Auto Workers) pour tous les travailleurs dans l’industrie automobile aux États-Unis, par exemple. Trouver quelle approche prendre, et quelle est la meilleure stratégie, peut dépendre du contexte spécifique auquel font face les travailleurs, le cadre légal variant beaucoup d’un lieu à l’autre et la situation pouvant être différente selon que des syndicats en mesure d’apporter support et ressources existent dans d’autres industries ou non. Mais il est important de garder à l’esprit ces deux points :</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; Paragraph" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>La syndicalisation commence toujours par une organisation sur le lieu de travail</Content>
@@ -91,7 +86,7 @@
     <Content>. Un syndicat de métier peut avoir beaucoup de membres, et un syndicat peut être officiellement et légalement reconnu, mais s’il n’y a aucune forme d’organisation prenant place sur le lieu de travail, les patrons qui y gouvernent n’ont aucune raison d’entrer en négociation. Ces patrons peuvent même faire attention à n’embaucher que des non-membres, pour ne jamais avoir à se soucier du syndicat. C’est seulement à travers une implication active des travailleu·se·rs sur leur propre lieu de travail qu’un changement réel est possible pour l’industrie.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Les travailleurs sont toujours plus forts lorsqu’ils s’unissent</Content>
@@ -100,7 +95,7 @@
     <Content>. La division entre les employés a tendance à être construite par leur opposition centrale avec les patrons. Par exemple, dans beaucoup d’industries, les patrons donnent un traitement préférentiel aux cols blancs, afin qu’ils n’agissent pas en solidarité avec les cols bleus qui tentent de se syndiquer, mais cette opposition est artificielle, et une conséquence de la plus profonde division entre travailleurs et patrons.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; subParagraph &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>	Sur le long terme, les travailleu·se·rs ont tout à perdre en se laissant être divisé·e·s ainsi. D’autre part, nous sommes tous gagnant·e·s à travailler ensemble et se supporter mutuellement dans nos diverses luttes. </Content>
@@ -118,9 +113,8 @@
     <Content> n’est pas une excuse pour ne pas se syndiquer.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-</ParagraphStyleRange>
+<Br/>
+
 
   </Story>
   

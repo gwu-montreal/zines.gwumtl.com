@@ -3,7 +3,7 @@
 <?aid SnippetType="InCopyInterchange"?>
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
-      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default"/>
       <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -21,14 +21,13 @@
       </CharacterStyle>
     </RootCharacterStyleGroup>
     <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
-      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
-          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
         <Properties>
           <TabList type="list">
             <ListItem type="record">
               <Alignment type="enumeration">LeftAlign</Alignment>
               <AlignmentCharacter type="string">.</AlignmentCharacter>
-              <Leader type="string"></Leader>
+              <Leader type="string"/>
               <Position type="unit">10</Position> <!-- first tab stop -->
             </ListItem>
           </TabList>
@@ -46,17 +45,13 @@
       </ParagraphStyle>
     </RootParagraphStyleGroup>
     <RootTableStyleGroup Self="pandoc_table_styles">
-      <TableStyle Self="TableStyle/Table" Name="Table" />
+      <TableStyle Self="TableStyle/Table" Name="Table"/>
     </RootTableStyleGroup>
     <RootCellStyleGroup Self="pandoc_cell_styles">
-      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell"/>
     </RootCellStyleGroup>
-  <Story Self="pandoc_story"
-      TrackChanges="false"
-      StoryTitle=""
-      AppliedTOCStyle="n"
-      AppliedNamedGrid="n" >
-    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+  <Story Self="pandoc_story" TrackChanges="false" StoryTitle="" AppliedTOCStyle="n" AppliedNamedGrid="n">
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12"/>
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
@@ -76,7 +71,7 @@
     <Content>.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>— </Content>
@@ -85,10 +80,9 @@
     <Content> Rockstar Games co-founder Dan Houser on the development of Red Dead Redemption 2 </Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-</ParagraphStyleRange>
-<Br />
+<Br/>
+
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>There’s no real reason why workers and consumers should have different interests or be at odds with one another. It sounds absurd when you think about it: many workers take a great deal of pride and personal satisfaction from making games that players love to play, and without workers there would be no games for players to enjoy in the first place. Unfortunately, </Content>
@@ -100,7 +94,7 @@
     <Content> (in large part because bosses prevent workers from talking about it publicly!). They are also encouraged to see themselves as having a special relationship with a brand, a company, or a product, rather than with the real people making the games they play. This dynamic encourages consumers to blame workers when things go wrong, and benefits owners. Throwing workers under the bus directs negative attention away from the bosses, even when they’re the ones responsible for making decisions that hurt consumers. It can also serve as an intimidation tactic that can be used to discipline workers.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>We’re unfortunately all too familiar with the way a small but extremely vocal minority of consumers take entitlement to the next level in their relationship to developers. As more game workers speak up about working conditions in the industry, </Content>
@@ -112,7 +106,7 @@
     <Content>. Often this harassment specifically targets marginalized workers who are simply trying to participate in the creative direction of the games they build and speak to their own struggles, backgrounds, and experiences. Individual workers become singled out and targeted by an online mob of entitled consumers who don’t want to see the game industry become more welcoming to new voices and who scapegoat them for everything they believe is wrong with games.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Sadly, they often succeed in goading bosses into punishing or even firing these workers: two well-known examples are </Content>
@@ -140,7 +134,7 @@
     <Content>.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Giving in to demands from angry, reactionary gamers is a convenient excuse for bosses to get rid of </Content>
@@ -158,10 +152,9 @@
     <Content> (THQ Nordic recently reminded us of this by choosing to do a marketing Q&amp;A on 8chan, a website known for harboring Nazis, enabling the spread of child porn, and playing a leading role in massive hate campaigns targeted against marginalized game workers.)</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-</ParagraphStyleRange>
-<Br />
+<Br/>
+
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>In these situations, management will often pretend to have the best interests of workers in mind even as they systematically yield to the slightest strain and validate gamer entitlement. </Content>
@@ -179,7 +172,7 @@
     <Content> (Protecting from what? Getting fired for standing up to harassment? Some protection racket that is!) After ArenaNet president Mike O’Brien fired developers Price and Fries at the demand of an online mob — for committing the egregious offence of pushing back against the misogyny women game designers face in the industry — many employers jumped on the occasion to introduce new social media policies restricting what their employees are allowed to express online outside of working hours. These policies effectively make workers responsible for being a 24/7 brand ambassador on top of their regular job — and for no additional compensation, to boot. (What a bargain!)</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>In her article from October on the topic, </Content>
@@ -205,7 +198,7 @@
     <Content> :</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“</Content>
@@ -229,7 +222,7 @@
     <Content> in internal conflicts with employees. This has, for a long time, represented a win-win for companies, ensuring not just the PR victory with their fans, but also a deeply suppressed and compliant workforce, and an opaque shroud over the industry’s internal workings. That shroud, however, seems to be starting to clear.”</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>This tactic was deployed in 2016 when studio owners at Activision, EA, Disney, Warner Bros, Take-Two, and others </Content>
@@ -255,10 +248,9 @@
     <Content>, bosses argued that these demands would somehow lead to worse games for consumers.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-</ParagraphStyleRange>
-<Br />
+<Br/>
+
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Executives ultimately answer to shareholders and investors, and thus to the profit motive. They’ll give in to the cry of a vocal, angry minority of perceived fans </Content>
@@ -299,28 +291,28 @@
 </ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks" Name="link" DestinationURL="https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks" Name="link" DestinationURL="https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks" DestinationUniqueKey="1"/>
   <Hyperlink Self="uf-4" Name="https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks" Source="htss-4" Visible="false" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/" Name="link" DestinationURL="https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/" Name="link" DestinationURL="https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/" DestinationUniqueKey="1"/>
   <Hyperlink Self="uf-3" Name="https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/" Source="htss-3" Visible="false" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368" Name="link" DestinationURL="https://kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368" Name="link" DestinationURL="https://kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368" DestinationUniqueKey="1"/>
   <Hyperlink Self="uf-2" Name="https://kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368" Source="htss-2" Visible="false" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired" Name="link" DestinationURL="https://www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired" Name="link" DestinationURL="https://www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired" DestinationUniqueKey="1"/>
   <Hyperlink Self="uf-1" Name="https://www.polygon.com/2018/7/9/17549492/arenanet-jessica-price-guild-wars-2-writer-fired" Source="htss-1" Visible="false" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>

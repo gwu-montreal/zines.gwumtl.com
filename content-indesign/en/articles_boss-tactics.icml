@@ -3,7 +3,7 @@
 <?aid SnippetType="InCopyInterchange"?>
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
-      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default"/>
       <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -21,14 +21,13 @@
       </CharacterStyle>
     </RootCharacterStyleGroup>
     <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
-      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
-          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
         <Properties>
           <TabList type="list">
             <ListItem type="record">
               <Alignment type="enumeration">LeftAlign</Alignment>
               <AlignmentCharacter type="string">.</AlignmentCharacter>
-              <Leader type="string"></Leader>
+              <Leader type="string"/>
               <Position type="unit">10</Position> <!-- first tab stop -->
             </ListItem>
           </TabList>
@@ -51,26 +50,22 @@
       </ParagraphStyle>
     </RootParagraphStyleGroup>
     <RootTableStyleGroup Self="pandoc_table_styles">
-      <TableStyle Self="TableStyle/Table" Name="Table" />
+      <TableStyle Self="TableStyle/Table" Name="Table"/>
     </RootTableStyleGroup>
     <RootCellStyleGroup Self="pandoc_cell_styles">
-      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell"/>
     </RootCellStyleGroup>
-  <Story Self="pandoc_story"
-      TrackChanges="false"
-      StoryTitle=""
-      AppliedTOCStyle="n"
-      AppliedNamedGrid="n" >
-    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+  <Story Self="pandoc_story" TrackChanges="false" StoryTitle="" AppliedTOCStyle="n" AppliedNamedGrid="n">
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12"/>
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#union-busting-tactics-to-look-out-for" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#union-busting-tactics-to-look-out-for" Name="Destination" DestinationUniqueKey="1"/>
     <Content>Union-busting tactics to look out for</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>As union talk continues to spread throughout the game industry, bosses who feel threatened are turning to an arsenal of tactics to break up organizing and discourage and demoralize workers. </Content>
@@ -88,22 +83,22 @@
     <Content> and render them ineffective. Here’s a few classics:</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#the-captive-audience-meeting" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#the-captive-audience-meeting" Name="Destination" DestinationUniqueKey="1"/>
     <Content>The </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#the-captive-audience-meeting" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#the-captive-audience-meeting" Name="Destination" DestinationUniqueKey="1"/>
     <Content>“Captive Audience”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#the-captive-audience-meeting" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#the-captive-audience-meeting" Name="Destination" DestinationUniqueKey="1"/>
     <Content> Meeting</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>If management ever catches wind that there’s organizing (or even just vague union talk) happening at the workplace, their first response will usually be to call a </Content>
@@ -121,28 +116,28 @@
     <Content>. The goal is to reach any workers who are uneducated about unions before their organizing co-workers do, and feed them negative preconceptions on the topic. You’re likely to see many of the other union-busting moves in this list being deployed at those meetings, and the best way to counter them is for you and your co-workers to be prepared and to know what to expect!</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Note also that when it comes to the topic of unionizing, managers will often repeat these talking points on any platform they have access to, such as game industry conferences or industry-oriented websites…</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#the-open-door-policy" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#the-open-door-policy" Name="Destination" DestinationUniqueKey="1"/>
     <Content>The </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#the-open-door-policy" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#the-open-door-policy" Name="Destination" DestinationUniqueKey="1"/>
     <Content>“Open Door”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#the-open-door-policy" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#the-open-door-policy" Name="Destination" DestinationUniqueKey="1"/>
     <Content> Policy</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Bosses often encourage workers to talk to them directly about workplace issues, insisting their </Content>
@@ -168,7 +163,7 @@
     <Content> sounds harmless on the surface.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>In fact, </Content>
@@ -192,17 +187,16 @@
     <Content>.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-</ParagraphStyleRange>
-<Br />
+<Br/>
+
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#unions-might-be-great-for-other-companiesindustries-but-its-different-here" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#unions-might-be-great-for-other-companiesindustries-but-its-different-here" Name="Destination" DestinationUniqueKey="1"/>
     <Content>“Unions might be great for other companies/industries, but it’s different here!”</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Whether it’s because games are </Content>
@@ -244,18 +238,18 @@
     <Content> — you’ll hear all sorts of reasons why your job is very special, unique, and different when it comes to unionizing. The funny thing, of course, is that every boss in every industry says the exact same thing to their workers! (WORKERTIP: It’s never true.)</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#framing-the-union-as-a-third-party" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#framing-the-union-as-a-third-party" Name="Destination" DestinationUniqueKey="1"/>
     <Content>Framing the union as a </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#framing-the-union-as-a-third-party" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#framing-the-union-as-a-third-party" Name="Destination" DestinationUniqueKey="1"/>
     <Content>“third party”</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Many bosses try and frame unions as some kind of external third party that will come in between you and your employer, ruining your happy family relationship, or maybe trying to get rich off your back. (Projection much?) You might even hear that they are dangerous radicals seeking to overthrow capitalism! (Oh no!) But in reality the union is not </Content>
@@ -279,14 +273,14 @@
     <Content>.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#you-cant-have-a-union-because-youre-not-really-employees" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#you-cant-have-a-union-because-youre-not-really-employees" Name="Destination" DestinationUniqueKey="1"/>
     <Content>“You can’t have a union, because you’re not really employees!”</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>More and more employers try to paper over the true nature of the relationship they have with their workers by referring to them as </Content>
@@ -316,7 +310,7 @@
     <Content> titles to just about everyone in the company, but with none of the decision-making power or additional pay that usually accompanies such a role.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Perhaps most importantly, </Content>
@@ -348,17 +342,16 @@
     <Content>.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-</ParagraphStyleRange>
-<Br />
+<Br/>
+
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#threats-of-outsourcing-and-cuts" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#threats-of-outsourcing-and-cuts" Name="Destination" DestinationUniqueKey="1"/>
     <Content>Threats of outsourcing and cuts</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>A common line — and one frequently internalized by workers — is that if workers unionize, bosses will make cuts to jobs or outsource them to where labour is cheaper and less organized. Whether management is assuring you that they’re really sorry but they have no choice and it’s </Content>
@@ -376,10 +369,9 @@
     <Content>.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-</ParagraphStyleRange>
-<Br />
+<Br/>
+
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Bosses lay off workers all the time for no good reason, and unionizing is the only way you have to protect yourself from that. Remember that it’s always our labour that creates value for the business owners, and that they can’t get rid of all of us or they’d be getting rid of the very source of all their profits. Besides, </Content>
@@ -391,18 +383,18 @@
     <Content>. This is especially true if the union movement is one that crosses borders in such a way that there’s nowhere for the owners to go — emphasizing why it’s so important for our organizing efforts to be international in nature and in solidarity with fellow workers all around the world!</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#the-guilt-trip" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#the-guilt-trip" Name="Destination" DestinationUniqueKey="1"/>
     <Content>The </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#the-guilt-trip" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#the-guilt-trip" Name="Destination" DestinationUniqueKey="1"/>
     <Content>“Guilt Trip”</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Some owners, especially those who think of themselves as </Content>
@@ -426,7 +418,7 @@
     <Content> you a job.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Remember that the core issue is the inequality of power between you and them, and that they are reacting that way because they are so used to holding that power over you and acting without any accountability to employees, that </Content>
@@ -438,18 +430,18 @@
     <Content>. Some bosses have been known to respond to union organizing efforts with tears! These sentiments may even be genuine, but in any case, dealing with them should be the responsibility of your boss’s therapist, not their employees.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#the-company-union" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#the-company-union" Name="Destination" DestinationUniqueKey="1"/>
     <Content>The </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#the-company-union" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#the-company-union" Name="Destination" DestinationUniqueKey="1"/>
     <Content>“Company Union”</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Some bosses claim to support unions, and will even offer to help you set one up. If your boss tries to pull this move, you might think at first you’re very lucky to work for such a progressive employer. They might even bring in people to do it for you and take care of all the complicated stuff… until you realize that your new </Content>
@@ -464,7 +456,7 @@
     <Content>don’t let it happen to you!</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>A similar role is played in our broader industry by some currently-existing industry organizations, who publicly claim to represent game developers but </Content>
@@ -488,14 +480,14 @@
     <Content> (SNJV, not to be confused with the STJV, which is the actual French game workers’ union).</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#scab-labour" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#scab-labour" Name="Destination" DestinationUniqueKey="1"/>
     <Content>Scab Labour</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>One of the dirtiest tricks a boss can employ, </Content>
@@ -516,10 +508,9 @@
     <Content> for standing up for your rights.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-</ParagraphStyleRange>
-<Br />
+<Br/>
+
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>During the SAG-AFTRA voice actors’ strike in 2017, scab voice actor labour was notably used — and </Content>
@@ -545,7 +536,7 @@
     <Content>.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>In order to work towards the long-term goal of a unionized game industry, it will be important to create a culture where taking a scab contract is treated as the despicable, selfish act that it is — and one that harms the scabs themselves in the longer term.</Content>
@@ -553,21 +544,21 @@
 </ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//waypoint.vice.com/en_us/article/yw55zx/crappy-voice-acting-undercuts-an-otherwise-strong-life-is-strange-prequel" Name="link" DestinationURL="https://waypoint.vice.com/en_us/article/yw55zx/crappy-voice-acting-undercuts-an-otherwise-strong-life-is-strange-prequel" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//waypoint.vice.com/en_us/article/yw55zx/crappy-voice-acting-undercuts-an-otherwise-strong-life-is-strange-prequel" Name="link" DestinationURL="https://waypoint.vice.com/en_us/article/yw55zx/crappy-voice-acting-undercuts-an-otherwise-strong-life-is-strange-prequel" DestinationUniqueKey="1"/>
   <Hyperlink Self="uf-3" Name="https://waypoint.vice.com/en_us/article/yw55zx/crappy-voice-acting-undercuts-an-otherwise-strong-life-is-strange-prequel" Source="htss-3" Visible="false" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//waypoint.vice.com/en_us/article/yw55zx/crappy-voice-acting-undercuts-an-otherwise-strong-life-is-strange-prequel</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.independent.co.uk/news/uk/home-news/national-gallery-workers-rights-gig-economy-public-sector-employment-tribunal-art-educators-a8803641.html" Name="link" DestinationURL="https://www.independent.co.uk/news/uk/home-news/national-gallery-workers-rights-gig-economy-public-sector-employment-tribunal-art-educators-a8803641.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.independent.co.uk/news/uk/home-news/national-gallery-workers-rights-gig-economy-public-sector-employment-tribunal-art-educators-a8803641.html" Name="link" DestinationURL="https://www.independent.co.uk/news/uk/home-news/national-gallery-workers-rights-gig-economy-public-sector-employment-tribunal-art-educators-a8803641.html" DestinationUniqueKey="1"/>
   <Hyperlink Self="uf-2" Name="https://www.independent.co.uk/news/uk/home-news/national-gallery-workers-rights-gig-economy-public-sector-employment-tribunal-art-educators-a8803641.html" Source="htss-2" Visible="false" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//www.independent.co.uk/news/uk/home-news/national-gallery-workers-rights-gig-economy-public-sector-employment-tribunal-art-educators-a8803641.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201" Name="link" DestinationURL="https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201" Name="link" DestinationURL="https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201" DestinationUniqueKey="1"/>
   <Hyperlink Self="uf-1" Name="https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201" Source="htss-1" Visible="false" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>

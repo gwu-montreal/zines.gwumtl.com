@@ -3,7 +3,7 @@
 <?aid SnippetType="InCopyInterchange"?>
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
-      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default"/>
       <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -21,14 +21,13 @@
       </CharacterStyle>
     </RootCharacterStyleGroup>
     <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
-      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
-          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
         <Properties>
           <TabList type="list">
             <ListItem type="record">
               <Alignment type="enumeration">LeftAlign</Alignment>
               <AlignmentCharacter type="string">.</AlignmentCharacter>
-              <Leader type="string"></Leader>
+              <Leader type="string"/>
               <Position type="unit">10</Position> <!-- first tab stop -->
             </ListItem>
           </TabList>
@@ -41,17 +40,13 @@
       </ParagraphStyle>
     </RootParagraphStyleGroup>
     <RootTableStyleGroup Self="pandoc_table_styles">
-      <TableStyle Self="TableStyle/Table" Name="Table" />
+      <TableStyle Self="TableStyle/Table" Name="Table"/>
     </RootTableStyleGroup>
     <RootCellStyleGroup Self="pandoc_cell_styles">
-      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell"/>
     </RootCellStyleGroup>
-  <Story Self="pandoc_story"
-      TrackChanges="false"
-      StoryTitle=""
-      AppliedTOCStyle="n"
-      AppliedNamedGrid="n" >
-    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+  <Story Self="pandoc_story" TrackChanges="false" StoryTitle="" AppliedTOCStyle="n" AppliedNamedGrid="n">
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12"/>
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -65,7 +60,7 @@
     <Content>. Beaucoup de choses ont changé dans l’industrie du jeu depuis ce temps-là ! Nous avons laissé ce message tel quel en tant que portrait de l’énergie et de l’activité qui régnaient au moment de la rédaction.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Bienvenue dans cette édition survoltée du magazine </Content>
@@ -77,10 +72,9 @@
     <Content>. Avant de s’attaquer au gros du sujet, prenons un moment pour jeter un oeil aux dénouements de l’année passée, bons et mauvais.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-</ParagraphStyleRange>
-<Br />
+<Br/>
+
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>L’édition de l’année précédente avait été écrite au plein milieu d’une </Content>
@@ -98,7 +92,7 @@
     <Content>, qui décompte les jours passés depuis les derniers licenciements dans l’industrie, atteint rarement un mois complet alors que les renvois s’enchaînent. En juin 2019, le publisher suédois Starbreeze a mis à la porte un quart du personnel, soit 60 employé·es, pour couper les coûts. Un mois plus tard, le studio montréalais LuckyHammers a fermé, ce qui a affecté environ 70 employé·es, et Gamestop a suivi en Août en renvoyant 14% du personnel, soit 120 employé·es.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>La discrimination des minorités de genre et les violences sexuelles</Content>
@@ -134,7 +128,7 @@
     </CharacterStyleRange>
   </HyperlinkTextSource>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Grâce au courage des travailleu·se·rs qui s’organisent face à ces enjeux, les compagnies se montrent de plus en plus prudentes - bien que nous soyons encore loin d’un réel changement structurel, beaucoup de petits mouvements dans la bonne direction se produisent. Suite à la polémique au sujet des conditions de travail durant le développement de Red Dead Redemption, </Content>
@@ -180,7 +174,7 @@
     <Content>).</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Nous avons eu notre dose de contretemps, mais il y a aussi de nombreuses raisons d’avoir de </Content>
@@ -192,10 +186,9 @@
     <Content>.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-</ParagraphStyleRange>
-<Br />
+<Br/>
+
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Depuis l’an dernier, les chapitres GWU ont continué de se former tout autour du monde. Nous avons étendu nos connections, présenté des workshops et tables rondes sur le droit du travail face à de larges audiences, fait tourner des sondages dans l’industrie, engagé des actions directes en public et en privé contre les patrons abusifs, et formé des comités de travailleu·se·rs pour bâtir un </Content>
@@ -229,7 +222,7 @@
     <Content>, tandis que le chapitre de Toronto a formé un partenariat officiel avec Communication Workers of America (CWA) pour continuer la syndicalisation des travailleu·se·rs de l’Ontario.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Nous appartenons à un </Content>
@@ -255,7 +248,7 @@
     <Content>).</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Le </Content>
@@ -283,7 +276,7 @@
     <Content> - une victoire monumentale pour l’industrie du jeu vidéo.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Les grosses compagnies technologiques sentent que la température monte et montrent déjà des signes de répression - Google a été pris la main dans le sac après avoir licencié plusieurs de ses employé·e·s </Content>
@@ -325,7 +318,7 @@
     <Content>.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
-<Br />
+<Br/>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Ensemble, nous avons les moyens de construire un futur meilleur, plus juste et durable pour les travailleu·se·rs tout autour du globe. Si vous travaillez dans le jeu vidéo, les abus tels que </Content>
@@ -351,91 +344,91 @@
 </ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.theguardian.com/global-development/2019/dec/16/apple-and-google-named-in-us-lawsuit-over-congolese-child-cobalt-mining-deaths" Name="link" DestinationURL="https://www.theguardian.com/global-development/2019/dec/16/apple-and-google-named-in-us-lawsuit-over-congolese-child-cobalt-mining-deaths" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.theguardian.com/global-development/2019/dec/16/apple-and-google-named-in-us-lawsuit-over-congolese-child-cobalt-mining-deaths" Name="link" DestinationURL="https://www.theguardian.com/global-development/2019/dec/16/apple-and-google-named-in-us-lawsuit-over-congolese-child-cobalt-mining-deaths" DestinationUniqueKey="1"/>
   <Hyperlink Self="uf-13" Name="https://www.theguardian.com/global-development/2019/dec/16/apple-and-google-named-in-us-lawsuit-over-congolese-child-cobalt-mining-deaths" Source="htss-13" Visible="false" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//www.theguardian.com/global-development/2019/dec/16/apple-and-google-named-in-us-lawsuit-over-congolese-child-cobalt-mining-deaths</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.code-cwa.org/" Name="link" DestinationURL="https://www.code-cwa.org/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.code-cwa.org/" Name="link" DestinationURL="https://www.code-cwa.org/" DestinationUniqueKey="1"/>
   <Hyperlink Self="uf-12" Name="https://www.code-cwa.org/" Source="htss-12" Visible="false" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//www.code-cwa.org/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.theverge.com/2019/11/25/20983053/google-fires-four-employees-memo-rebecca-rivers-laurence-berland-union-busting-accusation-walkout" Name="link" DestinationURL="https://www.theverge.com/2019/11/25/20983053/google-fires-four-employees-memo-rebecca-rivers-laurence-berland-union-busting-accusation-walkout" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.theverge.com/2019/11/25/20983053/google-fires-four-employees-memo-rebecca-rivers-laurence-berland-union-busting-accusation-walkout" Name="link" DestinationURL="https://www.theverge.com/2019/11/25/20983053/google-fires-four-employees-memo-rebecca-rivers-laurence-berland-union-busting-accusation-walkout" DestinationUniqueKey="1"/>
   <Hyperlink Self="uf-11" Name="https://www.theverge.com/2019/11/25/20983053/google-fires-four-employees-memo-rebecca-rivers-laurence-berland-union-busting-accusation-walkout" Source="htss-11" Visible="false" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//www.theverge.com/2019/11/25/20983053/google-fires-four-employees-memo-rebecca-rivers-laurence-berland-union-busting-accusation-walkout</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.koreaherald.com/view.php?ud=20200204000826" Name="link" DestinationURL="http://www.koreaherald.com/view.php?ud=20200204000826" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.koreaherald.com/view.php?ud=20200204000826" Name="link" DestinationURL="http://www.koreaherald.com/view.php?ud=20200204000826" DestinationUniqueKey="1"/>
   <Hyperlink Self="uf-10" Name="http://www.koreaherald.com/view.php?ud=20200204000826" Source="htss-10" Visible="false" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http%3a//www.koreaherald.com/view.php?ud=20200204000826</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.vice.com/en_us/article/3a8pp5/kickstarter-employees-win-historic-union-election" Name="link" DestinationURL="https://www.vice.com/en_us/article/3a8pp5/kickstarter-employees-win-historic-union-election" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.vice.com/en_us/article/3a8pp5/kickstarter-employees-win-historic-union-election" Name="link" DestinationURL="https://www.vice.com/en_us/article/3a8pp5/kickstarter-employees-win-historic-union-election" DestinationUniqueKey="1"/>
   <Hyperlink Self="uf-9" Name="https://www.vice.com/en_us/article/3a8pp5/kickstarter-employees-win-historic-union-election" Source="htss-9" Visible="false" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//www.vice.com/en_us/article/3a8pp5/kickstarter-employees-win-historic-union-election</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//twitter.com/stjv_fr/status/1203341904999526404" Name="link" DestinationURL="https://twitter.com/stjv_fr/status/1203341904999526404" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//twitter.com/stjv_fr/status/1203341904999526404" Name="link" DestinationURL="https://twitter.com/stjv_fr/status/1203341904999526404" DestinationUniqueKey="1"/>
   <Hyperlink Self="uf-8" Name="https://twitter.com/stjv_fr/status/1203341904999526404" Source="htss-8" Visible="false" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//twitter.com/stjv_fr/status/1203341904999526404</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//gwuireland.org/" Name="link" DestinationURL="https://gwuireland.org/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//gwuireland.org/" Name="link" DestinationURL="https://gwuireland.org/" DestinationUniqueKey="1"/>
   <Hyperlink Self="uf-7" Name="https://gwuireland.org/" Source="htss-7" Visible="false" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//gwuireland.org/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//twitter.com/GWU_UK/status/1219575597879394305" Name="link" DestinationURL="https://twitter.com/GWU_UK/status/1219575597879394305" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//twitter.com/GWU_UK/status/1219575597879394305" Name="link" DestinationURL="https://twitter.com/GWU_UK/status/1219575597879394305" DestinationUniqueKey="1"/>
   <Hyperlink Self="uf-6" Name="https://twitter.com/GWU_UK/status/1219575597879394305" Source="htss-6" Visible="false" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//twitter.com/GWU_UK/status/1219575597879394305</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.eurogamer.net/articles/2013-02-01-shooters-how-video-games-fund-arms-manufacturers" Name="link" DestinationURL="https://www.eurogamer.net/articles/2013-02-01-shooters-how-video-games-fund-arms-manufacturers" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.eurogamer.net/articles/2013-02-01-shooters-how-video-games-fund-arms-manufacturers" Name="link" DestinationURL="https://www.eurogamer.net/articles/2013-02-01-shooters-how-video-games-fund-arms-manufacturers" DestinationUniqueKey="1"/>
   <Hyperlink Self="uf-5" Name="https://www.eurogamer.net/articles/2013-02-01-shooters-how-video-games-fund-arms-manufacturers" Source="htss-5" Visible="false" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//www.eurogamer.net/articles/2013-02-01-shooters-how-video-games-fund-arms-manufacturers</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//kotaku.com/months-after-labor-controversy-rockstar-converts-game-1836982746" Name="link" DestinationURL="https://kotaku.com/months-after-labor-controversy-rockstar-converts-game-1836982746" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//kotaku.com/months-after-labor-controversy-rockstar-converts-game-1836982746" Name="link" DestinationURL="https://kotaku.com/months-after-labor-controversy-rockstar-converts-game-1836982746" DestinationUniqueKey="1"/>
   <Hyperlink Self="uf-4" Name="https://kotaku.com/months-after-labor-controversy-rockstar-converts-game-1836982746" Source="htss-4" Visible="false" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//kotaku.com/months-after-labor-controversy-rockstar-converts-game-1836982746</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.nathalielawhead.com/candybox/what-its-like-sharing-your-metoo-with-kotaku-a-cautionary-tale" Name="link" DestinationURL="http://www.nathalielawhead.com/candybox/what-its-like-sharing-your-metoo-with-kotaku-a-cautionary-tale" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.nathalielawhead.com/candybox/what-its-like-sharing-your-metoo-with-kotaku-a-cautionary-tale" Name="link" DestinationURL="http://www.nathalielawhead.com/candybox/what-its-like-sharing-your-metoo-with-kotaku-a-cautionary-tale" DestinationUniqueKey="1"/>
   <Hyperlink Self="uf-3" Name="http://www.nathalielawhead.com/candybox/what-its-like-sharing-your-metoo-with-kotaku-a-cautionary-tale" Source="htss-3" Visible="false" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http%3a//www.nathalielawhead.com/candybox/what-its-like-sharing-your-metoo-with-kotaku-a-cautionary-tale</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.theguardian.com/games/2019/sep/17/gaming-metoo-moment-harassment-women-in-games" Name="link" DestinationURL="https://www.theguardian.com/games/2019/sep/17/gaming-metoo-moment-harassment-women-in-games" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.theguardian.com/games/2019/sep/17/gaming-metoo-moment-harassment-women-in-games" Name="link" DestinationURL="https://www.theguardian.com/games/2019/sep/17/gaming-metoo-moment-harassment-women-in-games" DestinationUniqueKey="1"/>
   <Hyperlink Self="uf-2" Name="https://www.theguardian.com/games/2019/sep/17/gaming-metoo-moment-harassment-women-in-games" Source="htss-2" Visible="false" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//www.theguardian.com/games/2019/sep/17/gaming-metoo-moment-harassment-women-in-games</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.gamesindustry.biz/articles/2020-01-22-women-suing-riot-games-may-be-entitled-to-usd400m-not-usd10m-says-state-regulator" Name="link" DestinationURL="https://www.gamesindustry.biz/articles/2020-01-22-women-suing-riot-games-may-be-entitled-to-usd400m-not-usd10m-says-state-regulator" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.gamesindustry.biz/articles/2020-01-22-women-suing-riot-games-may-be-entitled-to-usd400m-not-usd10m-says-state-regulator" Name="link" DestinationURL="https://www.gamesindustry.biz/articles/2020-01-22-women-suing-riot-games-may-be-entitled-to-usd400m-not-usd10m-says-state-regulator" DestinationUniqueKey="1"/>
   <Hyperlink Self="uf-1" Name="https://www.gamesindustry.biz/articles/2020-01-22-women-suing-riot-games-may-be-entitled-to-usd400m-not-usd10m-says-state-regulator" Source="htss-1" Visible="false" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
