@@ -29,6 +29,10 @@ jobs:
             mkdir -p "$outdir"
             ./pandoc "$source_dir/$file" -s -o "$outdir/$outfile"
           done
+      - name: Fixup ICML with Cheerio
+        run: |-
+          npm --prefix .github/node-fixup-icml install
+          node .github/node-fixup-icml/index.js
       - name: Commit and push if changed
         run: |-
           cd content-indesign

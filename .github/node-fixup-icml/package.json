@@ -1,0 +1,9 @@
+{
+  "name": "node-fixup-icml",
+  "private": "true",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
