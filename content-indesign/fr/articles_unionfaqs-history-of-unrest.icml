@@ -64,7 +64,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Quand cet Easter Egg a été découvert par Atari, Robinett avait déjà quitté la compagnie, mais cela ne les a pas empêchés de déployer des ressources et du temps de développement pour chercher le code associé à l’easter egg. Cependant, Brad Stewart, l’employé d’Atari chargé de traquer le code en question, a choisi d’annoncer que si on le chargeait de </Content>

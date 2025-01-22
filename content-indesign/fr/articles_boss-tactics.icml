@@ -181,7 +181,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#les-syndicats-marchent-peut-être-très-bien-pour-dautres-compagniesindustries-mais-cest-différent-ici" Name="Destination" DestinationUniqueKey="1"/>
@@ -333,7 +333,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#menaces-de-sous-traitance-et-suppression-demplois" Name="Destination" DestinationUniqueKey="1"/>
@@ -363,7 +363,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Les boss licencient régulièrement des travailleu.se.rs sans aucune bonne raison, et se syndiquer est la seule façon de vous en protéger. Souvenez-vous, c’est notre travail qui crée de la valeur pour les entrepreneurs; nos patrons ne peuvent pas se débarrasser de chacun·e d’entre nous, ou bien ils perdraient la source de leurs revenus. De plus, </Content>
@@ -520,7 +520,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Pendant la grève des doubleu·ses·rs de la SAG-AFTRA en 2017, l’emploi de voice doubleurs briseurs de grèves fut notamment utilisé -</Content>

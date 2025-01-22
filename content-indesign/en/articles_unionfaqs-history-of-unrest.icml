@@ -55,7 +55,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>When the Easter egg was discovered by Atari, Robinett had already left the company, but that didn’t stop them from devoting development resources to uncovering the offending code. However, Brad Stewart, the Atari employee who tracked down the code in question, said that if he were to fix it, he’d just change the message in the game to say </Content>

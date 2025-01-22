@@ -87,7 +87,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; first" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Contactez les syndicats et organisations existantes dans votre région</Content>
@@ -101,7 +101,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange NumberingStartAt="2" AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; beginsWith-2" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Parlez à vos collègues</Content>
@@ -118,7 +118,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange NumberingStartAt="3" AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; beginsWith-3" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Aidez-les à identifier des solutions collectives aux problèmes qu’iels ont soulevés</Content>
@@ -147,7 +147,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange NumberingStartAt="4" AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; beginsWith-4" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Organisez une première action</Content>
@@ -161,7 +161,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange NumberingStartAt="5" AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; beginsWith-5" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Préparez vos collègues à la réaction des patrons</Content>
@@ -172,7 +172,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange NumberingStartAt="6" AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; beginsWith-6" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Poussez vos collègues à devenir eux-mêmes organisat·rice·eurs</Content>

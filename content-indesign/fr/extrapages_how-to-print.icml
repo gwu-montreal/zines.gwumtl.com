@@ -150,7 +150,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/CodeBlock">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>b. Vous devez également ouvrir les paramètres avancés pour sélectionner l'option &quot;Imprimer en tant qu'image&quot; (Le résultat sera plus propre).</Content>
@@ -158,7 +158,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange NumberingStartAt="4" AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; beginsWith-4" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Quand vos 16 pages seront imprimées, vous devriez avoir les couvertures extérieure d’un côté de votre pile d’impressions, et la carte centrale de l’autre côté. Agraffez deux fois à l’extérieur, afin que les fermetures de l’agraffe soient le long du centre vertical de la carte.</Content>
@@ -166,7 +166,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange NumberingStartAt="5" AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; beginsWith-5 &gt; Paragraph" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Le zine est assez épais, donc vous aurez peut-être du mal à le plier. Nous recommandons d’utiliser votre téléphone ou un autre objet plat pour tenir les pages en place lorsque vous les pliez.</Content>

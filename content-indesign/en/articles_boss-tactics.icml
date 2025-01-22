@@ -189,7 +189,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#unions-might-be-great-for-other-companiesindustries-but-its-different-here" Name="Destination" DestinationUniqueKey="1"/>
@@ -344,7 +344,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#threats-of-outsourcing-and-cuts" Name="Destination" DestinationUniqueKey="1"/>
@@ -371,7 +371,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Bosses lay off workers all the time for no good reason, and unionizing is the only way you have to protect yourself from that. Remember that it’s always our labour that creates value for the business owners, and that they can’t get rid of all of us or they’d be getting rid of the very source of all their profits. Besides, </Content>
@@ -510,7 +510,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>During the SAG-AFTRA voice actors’ strike in 2017, scab voice actor labour was notably used — and </Content>

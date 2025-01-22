@@ -62,7 +62,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Toute entreprise est avant tout faite de ses employé·e·s</Content>
@@ -172,7 +172,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Ce n’est pas une question de </Content>
@@ -228,7 +228,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Mais il n’a pas à en être ainsi ! Les travailleu·se·rs ont le pouvoir potentiel de changer cette dynamique et forcer les entreprises pour lesquelles ils travaillent à prendre leurs meilleurs intérêts en considération. C’est parce que dans chaque industrie, chaque entreprise, c’est toujours leur travail qui est à la source de tous les profits des patrons. </Content>

@@ -147,7 +147,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/CodeBlock">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>b. You should also open up Advanced settings to select the &quot;Print as Image&quot; option (this will yield a cleaner result, we've found).</Content>
@@ -155,7 +155,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange NumberingStartAt="4" AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; beginsWith-4" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>When your 16 sheets are printed, you should see the outside covers on one side of the stack, and the map centerfold on the other side. Staple twice on the outside, so the legs are visible along the center vertical of the map, as shown:</Content>
@@ -163,7 +163,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange NumberingStartAt="5" AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; beginsWith-5 &gt; Paragraph" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>This zine is pretty thick so you might have trouble folding it flat. We recommend using your phone or another blunt flat object to crease the pages as you fold them.</Content>

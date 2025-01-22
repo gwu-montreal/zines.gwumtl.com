@@ -76,7 +76,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; first" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Help unionize your own industry, or get involved in your own union</Content>
@@ -87,7 +87,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange NumberingStartAt="2" AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; beginsWith-2" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Talk to players about why unions are important</Content>
@@ -98,7 +98,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange NumberingStartAt="3" AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; beginsWith-3" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Signal boost workers in the industry</Content>
@@ -109,7 +109,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange NumberingStartAt="4" AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; beginsWith-4" NumberingContinue="false">
   <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Link">

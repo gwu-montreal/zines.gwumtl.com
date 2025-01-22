@@ -84,7 +84,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; first" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Reach out to existing unions</Content>
@@ -106,7 +106,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange NumberingStartAt="2" AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; beginsWith-2" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Talk to your coworkers</Content>
@@ -123,7 +123,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange NumberingStartAt="3" AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; beginsWith-3" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Help them identify collective solutions</Content>
@@ -152,7 +152,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange NumberingStartAt="4" AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; beginsWith-4" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Organize a first action</Content>
@@ -166,7 +166,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange NumberingStartAt="5" AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; beginsWith-5" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Prepare your coworkers for the bosses’ reaction</Content>
@@ -177,7 +177,7 @@
 </ParagraphStyleRange>
 <Br/>
 
-<Br/>
+
 <ParagraphStyleRange NumberingStartAt="6" AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; beginsWith-6" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Push your coworkers to become organizers themselves</Content>
