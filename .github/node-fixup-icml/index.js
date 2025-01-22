@@ -24,7 +24,16 @@ for (const lang of ["en", "fr"]) {
       console.log(
         `Doc "${path}" has ${emptyParagraphs.length} empty paragraphs. Cleaning up.`
       );
-      for (const e of emptyParagraphs) $(e).remove();
+      for (const e of emptyParagraphs) {
+        const prev = $(e).prev();
+        const next = $(e).next();
+        if (prev?.[0]?.name === "Br" && next?.[0]?.name === "Br") {
+          next.remove();
+        }
+
+        $(e).remove();
+      }
+
       await writeFile(path, $.xml());
     }
   }

@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  scheduled:
+  convert_markdown:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # 4.2.2
@@ -16,19 +16,7 @@ jobs:
           curl -L "https://github.com/jgm/pandoc/releases/download/$VER/pandoc-$VER-linux-amd64.tar.gz" | tar -xz --strip-components=2 -C . "pandoc-$VER/bin/pandoc"
           echo "$CHECKSUM  pandoc" | sha256sum -c
       - name: Convert Markdown to ICML
-        run: |-
-          set -euxo pipefail
-          source_dir=content; target_dir=content-indesign
-          rm -rf "$target_dir"
-          mkdir "$target_dir"
-          echo "DO NOT EDIT THE CONTENTS OF THIS FOLDER!" >> "$target_dir/README.md"
-          echo "It was generated automatically from the Markdown files in the '$source_dir' folder." >> "$target_dir/README.md"
-          find "$source_dir" -type f -name "*.md" -printf "%P\n" | while read -r file; do
-            outdir="$target_dir/$(basename "$file" .md)"
-            outfile=$(dirname "$file" | sed 's/\//_/g').icml
-            mkdir -p "$outdir"
-            ./pandoc "$source_dir/$file" -s -o "$outdir/$outfile"
-          done
+        run: .github/pandoc.sh
       - name: Fixup ICML with Cheerio
         run: |-
           npm --prefix .github/node-fixup-icml install
