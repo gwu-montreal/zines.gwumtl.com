@@ -31,4 +31,4 @@ Même si vous ne travaillez pas vous même dans l’industrie du jeu vidéo, il 
   src="/images/faqs/allyhelp_04.png"
 /></div>
 
-4. **[Rejoignez "Game Workers Unite"](https://www.gameworkersunite.org/) et impliquez-vous** dans les efforts d’organisation sur le terrain! Nous encourageons activement les joueu·ses·rs, universitaires et quiconque veut améliorer les conditions de travail dans l’industrie à s’engager dans la communauté et à nous aider à réussir.
+4. **[Rejoignez le Collectif des travailleu·ses·rs de l’industrie du jeu / Game Workers Unite](https://gwumtl.com/fr/) et impliquez-vous** dans les efforts d’organisation sur le terrain! Nous encourageons activement les joueu·ses·rs, universitaires et quiconque veut améliorer les conditions de travail dans l’industrie à s'impliquer dans la communauté et à nous aider à réussir.

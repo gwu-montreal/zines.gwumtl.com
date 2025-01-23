@@ -1,4 +1,4 @@
-Les conditions de travail et les licenciements de masse dans l’industrie du jeu vidéo font beaucoup de bruit depuis plusieurs années. Mais malgré les protestations, très peu a changé — à dire vrai, les choses semblent empirer. En 2018, nous avons pris les choses en main et avons créé le [**Collectif des travailleu·ses·rs de l’industrie du jeu / Game Workers Unite Montréal**](https://gwumtl.com) (CTIJ/GWU) afin de se battre collectivement pour de meilleures conditions.
+Les conditions de travail et les licenciements de masse dans l’industrie du jeu vidéo font beaucoup de bruit depuis plusieurs années. Mais malgré les protestations, très peu a changé — à dire vrai, les choses semblent empirer. En 2018, nous avons pris les choses en main et avons créé le [**Collectif des travailleu·ses·rs de l’industrie du jeu / Game Workers Unite Montréal**](https://gwumtl.com/fr/) (CTIJ/GWU) afin de se battre collectivement pour de meilleures conditions.
 
 ## Vous êtes fatigué·e du crunch?
 

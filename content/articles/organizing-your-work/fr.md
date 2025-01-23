@@ -65,6 +65,6 @@ style="width:340px;max-width:100%;"
 
 **Ne rendez votre travail d’organisation public que lorsque vous êtes confiant d’avoir le soutien de la majorité des employé·e·s**, et avez établi un plan concret sur lequel tout le monde est d’accord. Beaucoup se sont fait licencier pour avoir essayé de se syndiquer, donc faites attention à protéger votre vie privée et celle de vos collègues. Dans la plupart des pays, le droit d’un·e travailleu·se·r à se syndiquer est protégé par la loi, donc assurez vous de vous informer sur vos droits (les syndicats locaux peuvent aider).
 
-Contactez-nous pour plus de détails. Les applications pour devenir membre de CTIJ/GWU ainsi que les liens vers nos organisations sœures sont disponibles ici: [www.gameworkersunite.org](http://www.gameworkersunite.org/)
+Contactez-nous pour plus de détails. Les applications pour devenir membre de CTIJ/GWU ainsi que les liens vers nos organisations sœures sont disponibles ici: [https://gwumtl.com/fr/)
 
-S’il n’y a aucune organisation "Game Workers Unite" dans votre région, [contactez-nous](https://www.gameworkersunite.org/) et nous pouvons vous aider à entrer en contact avec les syndicats locaux et même démarrer votre propre organisation!
+S’il n’y a aucune organisation "Game Workers Unite" dans votre région, [contactez-nous](https://gwumtl.com/fr/) et nous pouvons vous aider à entrer en contact avec les syndicats locaux et même démarrer votre propre organisation!

@@ -9,24 +9,24 @@ Nous ne défendrons pas une industrie caractérisée par des discriminations sur
 <h1>Souvenez-vous : vous n’êtes pas seul·e dans ce combat ! Ensemble, nous pouvons gagner de meilleures conditions de travail pour <strong>tout le monde</strong>.</h1>
 </div>
 
-<h3 style="text-align: center;">Suivez GWU Montréal en ligne:</h3>
+<h3 style="text-align: center;">Suivez CTIJ/GWU Montréal en ligne:</h3>
 
 <div style="display:flex;flex-wrap: wrap;justify-content: center;margin-top:20px;margin-bottom:40px">
-  <a title="GWU Montréal sur Twitter" href="https://twitter.com/gwu_montreal">
+  <a title="CTIJ/GWU Montréal sur Twitter" href="https://twitter.com/gwu_montreal">
     <img
       style="width: 150px;height: 150px;margin-right: 1rem"
       src="/images/social-twitter.svg"
       alt="Twitter logo"
     />
   </a>
-  <a title="GWU Montréal Website" href="https://gwumtl.com">
+  <a title="CTIJ/GWU Montréal Website" href="https://gwumtl.com">
     <img
       style="width: 150px;height: 150px;margin-right: 1rem"
       src="/images/gwu-montreal-logo.svg"
-      alt="GWU Montréal logo"
+      alt="CTIJ/GWU Montréal logo"
     />
   </a>
-  <a title="GWU Montréal sur Facebook" href="https://www.facebook.com/gwumtl/">
+  <a title="CTIJ/GWU Montréal sur Facebook" href="https://www.facebook.com/gwumtl/">
     <img
       style="width: 150px;height: 150px"
       src="/images/social-facebook.svg"

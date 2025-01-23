@@ -2,7 +2,7 @@
 title: Comment imprimer ce zine chez soi
 ---
 
-Vous voulez faire des copies de ce zine Game Workers Unite pour les partager avec vos ami·e·s et collègues? Voici les étapes que nous conseillons de suivre pour obtenir le meilleur résultat:
+Vous voulez faire des copies de ce zine du Collectif des travailleu·ses·rs de l’industrie du jeu / Game Workers Unite Montréal, pour les partager avec vos ami·e·s et collègues? Voici les étapes que nous conseillons de suivre pour obtenir le meilleur résultat:
 
 1. Choisissez la ou les couvertures que vous aimez le plus! (Les liens de téléchargement sont en bas de cette page.)
 
