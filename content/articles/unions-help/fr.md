@@ -55,7 +55,7 @@ Houser semble croire que le crunch est un symbole de dévouement, de passion, qu
 >
 > Pour être clair, je n’avais pas juste oublié les détails de sa visite. Je n’avais réellement aucun souvenir de ces évènements. Pour moi, c’était comme si ça ne s’était jamais produit, comme s’il n’était jamais venu me rendre visite. Il y avait un espace vide dans ma tête qui était occupé par tout le stress et l’anxiété de Splinter Cell. **Splinter Cell: Chaos Theory m’a donné des lésions cérébrales** ([Source](https://clicknothing.typepad.com/click_nothing/2015/03/ten-years-down.html))
 
-Hocking s’en est peut-être bien tiré. En 2016, un développeur de la compagnie Sud Coréenne Netmarble [a été reconnu](https://massivelyop.com/2017/08/04/crunch-mode-caused-a-young-netmarble-game-developers-death-korean-government-says/) “mort d’une cause liée au travail” après plusieurs mois d'heures supplémentaire.
+Hocking s’en est peut-être bien tiré. En 2016, un développeur de l'entreprise Sud Coréenne Netmarble [a été reconnu](https://massivelyop.com/2017/08/04/crunch-mode-caused-a-young-netmarble-game-developers-death-korean-government-says/) “mort d’une cause liée au travail” après plusieurs mois d'heures supplémentaire.
 
 <div class="md-img right off-5">
 <img
@@ -80,7 +80,7 @@ Beaucoup essaient de dépeindre le crunch comme étant inévitable, mais nous sa
 
 ### Harcèlement
 
-Le harcèlement est un problème bien connu dans l’industrie du jeu vidéo depuis des années, mais jusqu’à présent **les patrons ont très peu agi pour adresser le problème**, à part pour délivrer de vagues discours sur leurs “condamnations du harcèlement” au sein des compagnies. Les employé·e·s qui se font harceler au travail n’ont souvent aucune option pour se défendre. Les départements des RH sont censés être la première destination pour les victimes, mais sont souvent trop concernés par la protection de l’image publique de la compagnie plutôt que par la protection de leurs employé·e·s.
+Le harcèlement est un problème bien connu dans l’industrie du jeu vidéo depuis des années, mais jusqu’à présent **les patrons ont très peu agi pour adresser le problème**, à part pour délivrer de vagues discours sur leurs “condamnations du harcèlement” au sein des entreprises. Les employé·e·s qui se font harceler au travail n’ont souvent aucune option pour se défendre. Les départements des RH sont censés être la première destination pour les victimes, mais sont souvent trop concernés par la protection de l’image publique de l'entreprise plutôt que par la protection de leurs employé·e·s.
 
 <div class="md-img right off-9">
 <img
@@ -89,7 +89,7 @@ Le harcèlement est un problème bien connu dans l’industrie du jeu vidéo dep
 />
 </div>
 
-Le recours aux syndicats peut offrir aux travailleu·ses·rs un endroit où leurs préoccupations seront entendues, et contrairement aux RH, les syndicats sont directement responsables envers les travailleu·ses·rs qu’ils représentent. Tandis qu’un·e travailleu·se·r isolé·e pourrait être ignoré·e ou renvoyé·e pour avoir parlé du harcèlement qu’elle·il a vécu (surtout si la personne responsable du harcèlement a du pouvoir dans la compagnie), elle·il est plus susceptible d’être pris·e au sérieux avec **le soutien d’autres employé·e·s.** Les syndicats peuvent lutter pour des réformes systémiques, telles que l’introduction de politiques anti-harcèlement ou de programmes d’entraînement.
+Le recours aux syndicats peut offrir aux travailleu·ses·rs un endroit où leurs préoccupations seront entendues, et contrairement aux RH, les syndicats sont directement responsables envers les travailleu·ses·rs qu’ils représentent. Tandis qu’un·e travailleu·se·r isolé·e pourrait être ignoré·e ou renvoyé·e pour avoir parlé du harcèlement qu’elle·il a vécu (surtout si la personne responsable du harcèlement a du pouvoir dans l'entreprise), elle·il est plus susceptible d’être pris·e au sérieux avec **le soutien d’autres employé·e·s.** Les syndicats peuvent lutter pour des réformes systémiques, telles que l’introduction de politiques anti-harcèlement ou de programmes d’entraînement.
 
 Le harcèlement a plus souvent lieu lorsque des employeurs et managers ont un pouvoir unilatéral de décision sur le futur de la carrière d’un·e employé·e, c’est pourquoi **tout geste qui rééquilibre la balance de pouvoir en faveur de l’employé·e aide aussi à réduire le harcèlement au travail.** Le harcèlement étant souvent lié à la discrimination et au manque de diversité, on peut le limiter grâce à des mesures telles que des pratiques d’embauches plus justes, une équité salariale ou des couvertures d’assurance santé plus complètes.
 
@@ -103,7 +103,7 @@ La chasse aux profits toujours plus élevés pousse les patrons à prioriser cer
 
 Si vous travaillez dans l’industrie, **combien de fois avez-vous dû implémenter ou supprimer une feature suite à une décision prise par un patron**, qui s’est révélée néfaste à la qualité du jeu ? **Ne souhaitez-vous pas avoir le pouvoir de négocier dans de telles situations** ? Ne voudriez-vous pas avoir été au moins consulté·e, au lieu d’avoir à travailler silencieusement dans une direction, tout ça pour devoir recommencer de zéro un mois plus tard parce que les hauts-placés ont décidé qu’une nouvelle tendance devait à tout prix être intégrée au projet ?
 
-Les travailleu·ses·rs dans l’industrie du jeu vidéo sont passionné·e·s par ce qu’elles·ils font — c’est pourquoi les compagnies peuvent s’en tirer avec leur exploitation ! — il est donc particulièrement blessant de les voir forcé·e·s de créer des choses en lesquelles elles·ils ne croient nullement. Que les travailleu·ses·rs finissent par s’accorder avec les décisions du management ou non, **dans un lieu de travail syndiqué, leurs opinions pourront au moins être exprimées et entendues.**
+Les travailleu·ses·rs dans l’industrie du jeu vidéo sont passionné·e·s par ce qu’elles·ils font — c’est pourquoi les entreprises peuvent s’en tirer avec leur exploitation ! — il est donc particulièrement blessant de les voir forcé·e·s de créer des choses en lesquelles elles·ils ne croient nullement. Que les travailleu·ses·rs finissent par s’accorder avec les décisions du management ou non, **dans un lieu de travail syndiqué, leurs opinions pourront au moins être exprimées et entendues.**
 
 Une force de travail syndiquée ou une coopérative de travail n’aident pas juste à améliorer les conditions au bureau ! Elles permettent bel et bien aux personnes *qui font réellement* les jeux d’exercer un plus grand contrôle créatif et de diriger leurs efforts vers quelque chose en quoi elles·il ont confiance.
 
