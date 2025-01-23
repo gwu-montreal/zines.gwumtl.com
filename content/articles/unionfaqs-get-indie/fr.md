@@ -10,7 +10,7 @@ Se syndiquer veut aussi dire que vous serez préparé·e·s en cas de changement
 
 > Les nouvelles de la vente de la compagnie ont changé les choses à Mojang. Certain·e·s se sentaient trahi·e·s par la décision de Markus. Le moral a plongé. “Les gens avaient l’impression que leur monde s’effondrait” ([Source](https://www.wired.com/2015/06/minecraft-book-excerpt/))
 
-Il existe bien d'autres histoires et non-dits de ce type dans le monde du jeu vidéo indé. Il est fréquent que des travailleu·ses·rs rejoignent un petit studio de type startup et acceptent un salaire bas sous prétexte qu'elles·ils croient vraiment en leur projet. Mais ces dernier·e·s ne reçoivent par la suite aucune reconnaissance après que le jeu ait rencontré un énorme succès, et que les patrons aient vendu le studio au prix fort.
+Il existe bien d'autres histoires et non-dits de ce type dans le monde du jeu vidéo indé. Il est fréquent que des travailleu·ses·rs rejoignent un petit studio de type start-up et acceptent un salaire bas sous prétexte qu'elles·ils croient vraiment en leur projet. Mais ces dernier·e·s ne reçoivent par la suite aucune reconnaissance après que le jeu ait rencontré un énorme succès, et que les patrons aient vendu le studio au prix fort.
 
 <div class="md-img right">
 <img
