@@ -29,11 +29,11 @@ Dans ce contexte, il est nécessaire de reprendre possession du terme «travaill
 
 La question des crédits de générique fait régulièrement polémique dans le monde du développement de jeux, et elle illustre caractéristiquement la nécessité, pour les travailleu·ses·rs de l’industrie, de politiser et faire valoir la nature de leur travail.
 
-Chaque studio a sa propre politique maison en ce qui concerne les crédits qui défilent à la fin de nos jeux et reconnaissent le travail qui les rend possibles. Mais ce n’est un secret pour personne que, peu importe la formule choisie par les entreprises pour créditer leurs équipes, le résultat finit en général par être un [gâchis total](https://www.videogameschronicle.com/features/opinion/game-credits-are-still-a-broken-mess/) au terme duquel les travailleurs et travailleuses se trouvent le plus souvent perdant·es.
+Chaque studio a sa propre politique maison en ce qui concerne les crédits qui défilent à la fin de nos jeux et reconnaissent le travail qui les rend possibles. Mais ce n’est un secret pour personne que, peu importe la formule choisie par les entreprises pour créditer leurs équipes, le résultat finit en général par être un [gâchis total](https://www.videogameschronicle.com/features/opinion/game-credits-are-still-a-broken-mess/) au terme duquel les travailleu·ses·rs se retrouvent le plus souvent perdant·es.
 
 Il est malheureusement très fréquent que les travailleu·ses·rs voient leur [travail invisibilisé ou mal qualifié](https://kotaku.com/how-game-companies-use-credits-to-reward-or-punish-de-1840905129) dans les crédits d’un jeu, après y avoir pourtant dédié des mois ou des années de leur vie. Ce n’est pas une surprise, dans une industrie où chaque métier peut avoir une définition, des réalités et un prestige très différents selon le studio qui vous emploie.
 
-Ce flou entourant la définition et la reconnaissance du travail fourni souligne la nécessité de syndiquer l’industrie, afin d'y procurer aux travailleurs et travailleuses une base solide de définitions et de valeurs sur laquelle ils et elles pourront défendre leurs droits et la légitimité qui leur est pleinement due.
+Ce flou entourant la définition et la reconnaissance du travail fourni souligne la nécessité de syndiquer l’industrie, afin d'y procurer aux travailleu·ses·rs une base solide de définitions et de valeurs sur laquelle ils et elles pourront défendre leurs droits et la légitimité qui leur est pleinement due.
 
 Dans une industrie où tant d'ouvrage peine à être reconnu à sa juste valeur — voire reconnu tout court — il est important d’être solidaires, d’utiliser les bons termes et de résister à la volonté des patrons de définir à notre place nos réalités, de masquer nos demandes et de diviser nos luttes.
 
