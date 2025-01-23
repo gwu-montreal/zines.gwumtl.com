@@ -2,7 +2,8 @@
 title: Un héritage de luttes
 type: unionfaqs
 ---
-Il est facile d’oublier que les questions touchant le travail sont centrales au sujet de la création de jeu depuis ses origines. Les "Easter Eggs", littéralement 'lœufs de Pâques', sont apparus à l'origine suite à des conflits entre travailleu·se·rs et patronnat dans des studios de développement où le labeur des travailleu·se·rs n'était pas crédité ou reconnu à sa juste valeur.
+
+Il est facile d’oublier que les questions touchant le travail sont centrales au sujet de la création de jeu depuis ses origines. Les "Easter Eggs", littéralement les «œufs de Pâques», sont apparus à l'origine suite à des conflits entre travailleu·se·rs et patronnat dans des studios de développement où le labeur des travailleu·se·rs n'était pas crédité ou reconnu à sa juste valeur.
 
 Pour la petite histoire, remontons dans les années 1970, époque où Warren Robinett développait Adventure au sein du studio Atari. À cette époque, les studios créditaient rarement leurs développeu·se·rs afin d'empêcher leurs concurrents de démarcher leurs talents. Sans crédits, il était ainsi difficile pour les travailleu·se·rs de prouver la légitimité de leur portfolio, et de changer de studio ou de développer leur réputation en tant que créat·rice·eur. En protestation, Robinett décida d’ajouter une salle secrète dans le jeu, précautionneusement camouflée derrière une série d’objectifs alambiqués pour empêcher qu’elle soit trouvée avant la sortie du jeu, dans laquelle les mots “Created by Warren Robinett” étaient affichés.
 
