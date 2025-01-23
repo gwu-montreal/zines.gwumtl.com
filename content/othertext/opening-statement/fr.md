@@ -6,7 +6,7 @@ Les conditions de travail et les licenciements de masse dans l’industrie du je
 
 ## Vous subissez du harcèlement au travail? Vous suspectez d’être payé·e moins que vos collègues à cause de votre genre ou vos origines?
 
-En tant que travailleu·se·rs du jeu vidéo, nous sommes conscient·e·s que ces problèmes continueront d’exister tant que nous seront dépendant·es du management pour les addresser. C’est seulement en organisant les employé·e·s du jeu vidéo sous nos propres conditions et afin de défendre nos intérêts collectifs en tant que travailleu·se·rs qu’un réel progrès sera possible.
+En tant que travailleu·ses·rs du jeu vidéo, nous sommes conscient·e·s que ces problèmes continueront d’exister tant que nous seront dépendant·es du management pour les addresser. C’est seulement en organisant les employé·e·s du jeu vidéo sous nos propres conditions et afin de défendre nos intérêts collectifs en tant que travailleu·ses·rs qu’un réel progrès sera possible.
 
 Le CTIJ est composé exclusivement d’employé·e·s — aucun boss! Nous construisons un mouvement de solidarité pro-syndicat et aidons les employé·e·s du jeu vidéo à s’organiser pour obtenir de meilleures conditions de travail.
 

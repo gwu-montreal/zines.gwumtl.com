@@ -7,7 +7,7 @@ En tant que travailleu·ses·rs, nous bénéficions des luttes syndicales menée
 
 Normes de sécurité • Assurance maladie • Fin des heures supplémentaires non payées • Assurance chômage • Protection face aux licenciements de masse et renvois injustes • Politiques anti-harcèlement • Réduction de la disparité salariale • Congés maladie payés • Congés parentaux payés • Congés annuels • Retraite • Week-ends • Pauses repas • Abolition du travail des enfants
 
-Les sections suivantes expliquent plus précisément par quels moyens les syndicats peuvent assister les travailleu·se·rs dans l’industrie du jeu vidéo.
+Les sections suivantes expliquent plus précisément par quels moyens les syndicats peuvent assister les travailleu·ses·rs dans l’industrie du jeu vidéo.
 
 
 
@@ -21,13 +21,13 @@ Les sections suivantes expliquent plus précisément par quels moyens les syndic
 />
 </div>
 
-La plupart du travail dans le jeu vidéo se fait sur la base de contrats ou “projets”. Beaucoup de travailleu·se·rs risquent donc de se retrouver sans emploi lorsque les projets s’achèvent. C’est une façon précaire de travailler, mais en plus, les travailleu·se·rs sont parfois licencié·e·s sans aucune forme d’avertissement.
+La plupart du travail dans le jeu vidéo se fait sur la base de contrats ou “projets”. Beaucoup de travailleu·ses·rs risquent donc de se retrouver sans emploi lorsque les projets s’achèvent. C’est une façon précaire de travailler, mais en plus, les travailleu·ses·rs sont parfois licencié·e·s sans aucune forme d’avertissement.
 
-Vous ignorez peut-être comment les syndicats peuvent servir contre quelque chose comme un licenciement collectif; les suppressions d’emplois, on n’y peut rien, n’est-ce-pas? Détrompez vous! L’une des choses les plus importantes qu’un syndicat puisse accomplir pour un milieu de travail est une **convention collective de travail** (CCT). Une CCT n’est pas la seule manière d'obtenir des demandes — mais son efficacité est prouvée, et la plupart des CCT apportent une protection pour les travailleu·se·rs contre les licenciements :
+Vous ignorez peut-être comment les syndicats peuvent servir contre quelque chose comme un licenciement collectif; les suppressions d’emplois, on n’y peut rien, n’est-ce-pas? Détrompez vous! L’une des choses les plus importantes qu’un syndicat puisse accomplir pour un milieu de travail est une **convention collective de travail** (CCT). Une CCT n’est pas la seule manière d'obtenir des demandes — mais son efficacité est prouvée, et la plupart des CCT apportent une protection pour les travailleu·ses·rs contre les licenciements :
 
 > Certaines CCT interdisent les licenciements **même si l’employeur affirme ne pas avoir assez d’argent pour garantir la paie de tous…** ou bien elles interdisent aux employeurs de licencier les travailleu·ses·rs syndiqué·e·s ou de sous-traiter leurs postes.
 >
-> Beaucoup de conventions collectives garantissent des employeurs qu’ils “rappellent” ou ré-embauchent les travailleu·se·rs licencié·e·s, dès lors que les renvois ne sont plus justifiés (quand le travail redémarre) ([Source](https://www.lawyers.com/legal-info/labor-employment-law/employment-contracts/can-your-union-save-you-from-a-layoff.html))
+> Beaucoup de conventions collectives garantissent des employeurs qu’ils “rappellent” ou ré-embauchent les travailleu·ses·rs licencié·e·s, dès lors que les renvois ne sont plus justifiés (quand le travail redémarre) ([Source](https://www.lawyers.com/legal-info/labor-employment-law/employment-contracts/can-your-union-save-you-from-a-layoff.html))
 
 Dans une industrie qui passe souvent à travers des cycles d’embauche et renvoi au fur et à mesure que les projets entrent en pleine production, deviennent “gold”, sont annulés ou changent de scope, il est évident que même un simple “droit au rappel” pourrait aider les employé·e·s à obtenir davantage de stabilité et tranquillité d’esprit.
 
@@ -45,7 +45,7 @@ Motoi Okamoto, ancien gestionnaire chez Nintendo, à propos du développement de
 </a>
 </div>
 
-En octobre 2018, avec la sortie imminente de Red Dead Redemption 2, Dan Houser, patron et co-fondateur de Rockstar Games, déclara fièrement au New York Magazine que ses employé·e·s faisaient **régulièrement des semaines de 100 heures pour préparer la sortie du jeu.** Comptez bien — En dormant 8 heures par nuit, il ne reste déjà que 112 heures par semaine! Retirez le temps dans les transits (du moins, si les employé·e·s ne restent pas au bureau), le temps de manger, etc… on en conclut que les travailleu·se·rs chez Rockstar passaient presque chaque instant de leur vie éveillée à leur job.
+En octobre 2018, avec la sortie imminente de Red Dead Redemption 2, Dan Houser, patron et co-fondateur de Rockstar Games, déclara fièrement au New York Magazine que ses employé·e·s faisaient **régulièrement des semaines de 100 heures pour préparer la sortie du jeu.** Comptez bien — En dormant 8 heures par nuit, il ne reste déjà que 112 heures par semaine! Retirez le temps dans les transits (du moins, si les employé·e·s ne restent pas au bureau), le temps de manger, etc… on en conclut que les travailleu·ses·rs chez Rockstar passaient presque chaque instant de leur vie éveillée à leur job.
 
 Houser est par la suite revenu sur ses mots, disant que seule l’équipe des scénaristes/dialoguistes avait travaillé autant pendant quelques semaines. Mais cela a provoqué un tollé de la part d’ancien·ne·s et actuel·le·s employé·e·s qui ont souligné ce mensonge évident et décrit les pressions immenses mises sur leurs épaules (un ancien employé [remarque](https://archive.fo/2M7CG) “sur GTA 4, c’était comme travailler avec un pistolet pointé sur la tempe, 7 jours par semaine”) tandis que d’autres étaient simplement mécontent·e·s de voir leur travail éreintant se faire banaliser par un patron du studio.
 
@@ -64,7 +64,7 @@ Hocking s’en est peut-être bien tiré. En 2016, un développeur de la compagn
 />
 </div>
 
-Beaucoup essaient de dépeindre le crunch comme étant inévitable, mais nous savons qu’il est le résultat d’une mauvaise planification et de dates d'échéance inatteignables — et surtout, de **l’importance donnée aux profits plutôt qu’aux êtres humains qui produisent les jeux.** Concrètement, les syndicats peuvent décourager le crunch en **assurant que les heures supplémentaires soient payées, que leur paie soit augmentée, et en placant des limites strictes sur la quantité autorisée par jour ou par semaine.** Ces mesures bénéficient ceux qui sont déjà dans l’industrie, mais poussent aussi les employeurs à embaucher davantage de travailleu·se·rs au lieu de s’en tirer en forçant trois fois la charge de travail raisonnable sur une seule personne.
+Beaucoup essaient de dépeindre le crunch comme étant inévitable, mais nous savons qu’il est le résultat d’une mauvaise planification et de dates d'échéance inatteignables — et surtout, de **l’importance donnée aux profits plutôt qu’aux êtres humains qui produisent les jeux.** Concrètement, les syndicats peuvent décourager le crunch en **assurant que les heures supplémentaires soient payées, que leur paie soit augmentée, et en placant des limites strictes sur la quantité autorisée par jour ou par semaine.** Ces mesures bénéficient ceux qui sont déjà dans l’industrie, mais poussent aussi les employeurs à embaucher davantage de travailleu·ses·rs au lieu de s’en tirer en forçant trois fois la charge de travail raisonnable sur une seule personne.
 
 > "Quand les gens de Bioware ont dit qu’ils avaient crunché pendant 3 mois, on a ri. Pendant la production de The Witcher 3, beaucoup d’entre nous ont crunché pendant plus d’un an — pour certains, pendant trois ans.
 >
@@ -89,11 +89,11 @@ Le harcèlement est un problème bien connu dans l’industrie du jeu vidéo dep
 />
 </div>
 
-Le recours aux syndicats peut offrir aux travailleu·ses·rs un endroit où leurs préoccupations seront entendues, et contrairement aux RH, les syndicats sont directement responsables envers les travailleu·se·rs qu’ils représentent. Tandis qu’un·e travailleu·se·r isolé·e pourrait être ignoré·e ou renvoyé·e pour avoir parlé du harcèlement qu’elle·il a vécu (surtout si la personne responsable du harcèlement a du pouvoir dans la compagnie), elle·il est plus susceptible d’être pris·e au sérieux avec **le soutien d’autres employé·e·s.** Les syndicats peuvent lutter pour des réformes systémiques, telles que l’introduction de politiques anti-harcèlement ou de programmes d’entraînement.
+Le recours aux syndicats peut offrir aux travailleu·ses·rs un endroit où leurs préoccupations seront entendues, et contrairement aux RH, les syndicats sont directement responsables envers les travailleu·ses·rs qu’ils représentent. Tandis qu’un·e travailleu·se·r isolé·e pourrait être ignoré·e ou renvoyé·e pour avoir parlé du harcèlement qu’elle·il a vécu (surtout si la personne responsable du harcèlement a du pouvoir dans la compagnie), elle·il est plus susceptible d’être pris·e au sérieux avec **le soutien d’autres employé·e·s.** Les syndicats peuvent lutter pour des réformes systémiques, telles que l’introduction de politiques anti-harcèlement ou de programmes d’entraînement.
 
 Le harcèlement a plus souvent lieu lorsque des employeurs et managers ont un pouvoir unilatéral de décision sur le futur de la carrière d’un·e employé·e, c’est pourquoi **tout geste qui rééquilibre la balance de pouvoir en faveur de l’employé·e aide aussi à réduire le harcèlement au travail.** Le harcèlement étant souvent lié à la discrimination et au manque de diversité, on peut le limiter grâce à des mesures telles que des pratiques d’embauches plus justes, une équité salariale ou des couvertures d’assurance santé plus complètes.
 
-Les travailleu·ses·rs marginalisé·e·s, plus susceptibles d’être la cible de harcèlement, **s’organisent déjà** dans de nombreuses entreprises à travers des “whisper networks” et des groupes de soutien informels. Ces efforts forment souvent la base pour des campagnes d’organisation plus larges, et aident à rétablir solidarité, confiance et respect mutuel. Pendant que les entreprises poussent à se concurrencer pour des postes ou promotions, créant une culture de travail hostile et toxique, la syndicalisation encourage les travailleu·se·rs à s’allier pour résoudre leurs problèmes collectivement. **La solidarité est la clef d’une campagne de syndicalisation réussie**, et une fois que les travailleu·se·rs l’ont compris, elle·sils sont davantage en mesure de changer les points de vue et attitudes qui ne servent au final qu’à nous diviser et perdre notre pouvoir.
+Les travailleu·ses·rs marginalisé·e·s, plus susceptibles d’être la cible de harcèlement, **s’organisent déjà** dans de nombreuses entreprises à travers des “whisper networks” et des groupes de soutien informels. Ces efforts forment souvent la base pour des campagnes d’organisation plus larges, et aident à rétablir solidarité, confiance et respect mutuel. Pendant que les entreprises poussent à se concurrencer pour des postes ou promotions, créant une culture de travail hostile et toxique, la syndicalisation encourage les travailleu·ses·rs à s’allier pour résoudre leurs problèmes collectivement. **La solidarité est la clef d’une campagne de syndicalisation réussie**, et une fois que les travailleu·ses·rs l’ont compris, elle·sils sont davantage en mesure de changer les points de vue et attitudes qui ne servent au final qu’à nous diviser et perdre notre pouvoir.
 
 
 
@@ -119,7 +119,7 @@ Les crédits sont une façon importante de se faire remarquer dans l’industrie
 
 Cette forme “d’encouragement” n’est pas seulement manipulative, elle complique la recherche d’emploi.
 
-Les travailleu·se·rs d’autres industries (comme le cinéma) [se sont battus et ont remporté](http://www.bccfu.com/wp-content/uploads/2016/08/2015-2018-BCCFU-MASTER-AGREEMENT-Appendix-C.pdf) le droit à être correctement crédités par le moyen des syndicats. Les syndicats peuvent accomplir la même chose pour l’industrie du jeu vidéo.
+Les travailleu·ses·rs d’autres industries (comme le cinéma) [se sont battus et ont remporté](http://www.bccfu.com/wp-content/uploads/2016/08/2015-2018-BCCFU-MASTER-AGREEMENT-Appendix-C.pdf) le droit à être correctement crédités par le moyen des syndicats. Les syndicats peuvent accomplir la même chose pour l’industrie du jeu vidéo.
 
 
 

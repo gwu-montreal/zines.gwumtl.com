@@ -11,7 +11,7 @@ style="width:340px;max-width:100%;"
 />
 </div>
 
-1. **Contactez les syndicats et organisations existantes dans votre région** pour obtenir de l’aide, des conseils, et du support. Les chapitres Game Workers Unite, les syndicats industriels et de métiers associés, ainsi que les syndicats de travailleu·ses·rs du jeu vidéo internationaux sont tous d’excellentes ressources pour apprendre à syndiquer votre lieu de travail, et établir des relations augmentera l’efficacité des actions de chaque interlocut·rice·eur à l’avenir. **Si possible, adressez vous à des organisat·rices·eurs expérimenté·e·s ou assistez à une session d’entraînement sur comment organiser des travailleu·se·rs.**
+1. **Contactez les syndicats et organisations existantes dans votre région** pour obtenir de l’aide, des conseils, et du support. Les chapitres Game Workers Unite, les syndicats industriels et de métiers associés, ainsi que les syndicats de travailleu·ses·rs du jeu vidéo internationaux sont tous d’excellentes ressources pour apprendre à syndiquer votre lieu de travail, et établir des relations augmentera l’efficacité des actions de chaque interlocut·rice·eur à l’avenir. **Si possible, adressez vous à des organisat·rices·eurs expérimenté·e·s ou assistez à une session d’entraînement sur comment organiser des travailleu·ses·rs.**
 
 <div class="md-img">
 <img
