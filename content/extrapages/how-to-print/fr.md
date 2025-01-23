@@ -24,10 +24,10 @@ Vous voulez faire des copies de ce zine Game Workers Unite pour les partager ave
     <img alt="imprimer en tant qu'image" src="/images/print_as_image.jpg">
   </p>
 
-4. Quand vos 16 pages seront imprimées, vous devriez avoir les couvertures extérieure d'un côté de votre pile d'impressions, et la double page centrale de l'autre côté. Agraffez deux fois à l'extérieur, afin que les fermetures de l'agraffe soient le long du centre vertical de la double page.
+4. Quand vos 16 pages seront imprimées, vous devriez avoir les couvertures extérieure d'un côté de votre pile d'impressions, et la double page centrale de l'autre côté. Agrafez deux fois à l'extérieur, afin que les fermetures de l'agrafe soient le long du centre vertical de la double page.
 
   <p class="md-img">
-    <img alt="zine agraffé" src="/images/inside_staples.jpg">
+    <img alt="zine agrafé" src="/images/inside_staples.jpg">
   </p>
 
 5. Le zine est assez épais, donc vous aurez peut-être du mal à le plier. Nous recommandons d'utiliser votre téléphone ou un autre objet plat pour tenir les pages en place lorsque vous les pliez.
