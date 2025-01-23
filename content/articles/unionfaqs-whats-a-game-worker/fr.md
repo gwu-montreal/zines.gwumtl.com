@@ -11,9 +11,9 @@ Le terme «travailleu·se·r» est plus inclusif et se rapproche plus des réali
 
 Lorsque l’on parle de «travailleu·se·r du jeu vidéo», on fait référence à toute personne impliquée dans la production d’un jeu.
 
-Les programmeuses, les artistes, les designers, les musiciens? Oui.
+Les programm·euses·eurs, les artistes, les designers, les musiciens? Oui.
 
-Les performeurs qui prêtent leurs voix aux personnages et les actrices qui interviennent à la Motion Capture ? Évidemment.
+Les perform·euses·eurs qui prêtent leurs voix aux personnages et les act·rices·eurs qui interviennent à la Motion Capture ? Évidemment.
 
 Les community managers? Tout à fait.
 
