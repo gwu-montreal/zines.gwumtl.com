@@ -6,4 +6,22 @@
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.requireConfig": true,
+  "cSpell.caseSensitive": true,
+  "cSpell.enabled": true,
+  "cSpell.language": "en,fr",
+  "cSpell.enabledFileTypes": {
+    "*": false
+  },
+  "cSpell.words": [
+    "CTIJ",
+    "Robinett",
+    "s’autogérer",
+    "SNJV",
+    "soluces",
+    "STJV"
+  ],
 }
