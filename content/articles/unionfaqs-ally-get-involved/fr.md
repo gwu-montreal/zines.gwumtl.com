@@ -1,8 +1,8 @@
 ---
-title: Allié·e·s, impliquez-vous.
+title: Allié·e·s, impliquez-vous!
 type: unionfaqs
 ---
-Même si vous ne travaillez pas vous même dans l’industrie du jeu vidéo, il existe malgré tout de nombreuses façons pour vous de soutenir les efforts de syndicalisation.
+Même si vous ne travaillez pas vous-même dans l’industrie du jeu vidéo, il existe malgré tout de nombreuses façons pour vous de soutenir les efforts de syndicalisation.
 
 <div class="md-img right off-2">
 <img
